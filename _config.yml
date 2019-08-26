@@ -1,0 +1,98 @@
+title: Embaixadoras
+# url: "https://teal-worm.cloudvent.net"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+disqus_shortname:
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: 
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Embaixadoras
+  links:
+    - https://github.com/CloudCannon/urban-jekyll-template
+
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    output: false
+  events:
+    output: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+permalink: pretty
+
+jekyll-archives:
+  enabled:
+    - "categories"
+
+plugins:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-archives"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 960
+          height: 2000
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+      _options:
+        image_path:
+          width: 2000
+          height: 2000
+  - scope:
+      path: ""
+      type: "staff_members"
+    values:
+      _options:
+        image_path:
+          width: 600
+          height: 600
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "index.html"
+      type: "pages"
+    values:
+      layout: "default"
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Instagram
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube

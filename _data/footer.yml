@@ -1,0 +1,24 @@
+- title: Pages
+  links:
+    - name: Home
+      link: /
+    - name: Eventos
+      link: /events/
+    - name: Time
+      link: /team/
+    - name: Blog
+      link: /blog/
+- title: Social
+  links:
+    - name: Facebook
+      link: https://www.facebook.com/OpenKnowledgeBrasil/
+      social_icon: Facebook
+      new_window: true
+    - name: Twitter
+      link: https://twitter.com/okfnbr/
+      social_icon: Twitter
+      new_window: true
+    - name: Instagram
+      link: https://www.instagram.com/openknowledgebrasil/
+      social_icon: Instagram
+      new_window: true

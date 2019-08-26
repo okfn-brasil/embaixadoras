@@ -1,0 +1,25 @@
+---
+title: Eventos
+heading: Sprints e Meetups
+subtitle: Acompanhe todas as atividades do nosso time pelo Brasil.
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+		<ul class="image-grid">
+			{% for event in site.events %}
+				<li>
+					<a href="{{ site.baseurl }}{{ event.url }}">
+						<img src="{% include relative-src.html src=event.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ event.name }}</div>
+							<div class="position">{{ event.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>
