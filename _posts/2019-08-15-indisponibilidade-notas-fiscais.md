@@ -44,7 +44,7 @@ Segundo a equipe técnica da câmara, que nos respondeu muito prontamente, o por
 
 O resultado é que quando tentamos acessar os arquivos de um recido disponível no Jarbas, o portal de acesso a informação nos apresenta o seguinte erro:
 
-![Not Found](/images/posts/not_found.png)
+![Not Found](/embaixadoras/images/posts/not_found.png)
 
 No link a seguir vocês terão acesso ao nosso questionamento feito por meio de uma issue no Github para a equipe técnica da Câmara dos Deputados:
 

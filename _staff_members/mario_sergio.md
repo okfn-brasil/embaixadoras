@@ -1,7 +1,7 @@
 ---
 name: Mário Sèrgio
 city: Florianópolis-SC
-image_path: ../images/team/mario_sergio.jpg
+image_path: /images/team/mario_sergio.jpg
 twitter: sergiomarioq
 ---
 
