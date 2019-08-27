@@ -1,6 +1,6 @@
 title: Embaixadoras
 url: "http://okfn-brasil.github.io"
-baseurl: "http://okfn-brasil.github.io/embaixadoras"
+baseurl: "/embaixadoras"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
