@@ -14,7 +14,7 @@ Nos dias 24 e 25 de maio, ocorreu o mais recente evento nos envolvendo. O tercei
 
 O Ciasc, Centro de Informática e Automação do Estado de Santa Catarina, é uma empresa pública, que há mais de 40 anos desenvolve soluções tecnológicas para que o Governo do Estado e dos Municípios entreguem à população catarinense serviços mais modernos, ágeis e inovadores. A empresa é responsável por infraestrutura de redes e serviços de datacenter para o governo de Santa Catarina.
 
-![Ciasc](/embaixadoras/images/posts/2019-05-31-sprint-florianopolis1.jpeg)
+![Ciasc](/images/posts/2019-05-31-sprint-florianopolis1.jpeg)
 
 Dentre as 45 pessoas presentes havia representantes de diversas áreas, como cientistas de dados, programadores, jornalistas, físicos e jovens cientistas da computação. Foram dois dias de muita troca de informações e contribuição para o projeto open source mais popular no Brasil.
 
@@ -26,13 +26,13 @@ Destacam-se as seguintes contribuições:
 - Iniciaram-se trabalhos para otimização de memória no tratamento de dados da Rosie.
 - Inclusão de links para perfis de redes sociais nas notas da base de dados do Jarbas.
 
-![Jarbas](/embaixadoras/images/posts/2019-05-31-sprint-florianopolis2.png)
+![Jarbas](/images/posts/2019-05-31-sprint-florianopolis2.png)
 
 ## A importância de agregar novos membros ao projeto
 
 Manter uma comunidade ativa e aberta a novos membros, conectando pessoas de diversas áreas do conhecimento, é essencial para aprimorar o projeto e levar informações cada vez mais claras para a população participar na gestão dos recursos públicos.
 
-![Foto oficial](/embaixadoras/images/posts/2019-05-31-sprint-florianopolis3.jpeg)
+![Foto oficial](/images/posts/2019-05-31-sprint-florianopolis3.jpeg)
 
 O grupo de Florianópolis, por exemplo, ainda continua com ideias e sugestões, mesmo após o término do sprint. O objetivo é que o projeto ainda ganhe mais melhorias e sugestões, vinda da comunidade que irá se formar em torno dos eventos. Como dizemos, o Serenata não é nosso. Nós precisamos e queremos ter a população colaborando de perto em todos os momentos do projeto.
 
