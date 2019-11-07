@@ -1,6 +1,6 @@
 ---
 name: Cleverson Carvalho
-position:
+city: Macau-RN
 image_path:
 twitter:wildclev
 ---
