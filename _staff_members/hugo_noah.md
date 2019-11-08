@@ -1,6 +1,6 @@
 ---
 name: Hugo Noah
 city: Maceió-AL
-image: /images/team/hugo_noah.jpg
+image_path: /images/team/hugo_noah.jpg
 twitter: HugoNoah
 ---
