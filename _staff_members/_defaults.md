@@ -1,6 +1,6 @@
 ---
 name:
-position:
+city:
 image_path:
 twitter:
 ---
