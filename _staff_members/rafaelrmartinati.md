@@ -1,6 +1,6 @@
 ---
-name: Rafael R Martinati
+Name: Rafael R Martinati
 city: Limeira - SP
 image_path: /images/team/rafael_martinati.jpg
-twitter: @martinati
+twitter: martinati
 ---
