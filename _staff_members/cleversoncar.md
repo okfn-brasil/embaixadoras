@@ -1,6 +1,6 @@
 ---
 name: Cleverson Carvalho
 city: Macau-RN
-image_path: embaixadoras/images/team/Cleverson.jpg 
+image_path: /images/team/Cleverson.jpg 
 twitter: wildclev
 ---
