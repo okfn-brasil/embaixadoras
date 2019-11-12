@@ -1,3 +1,4 @@
+---
 name: Vinicius Batista
 city: Itajaí-SC
 image_path: /images/team/vinibatista.jpg
