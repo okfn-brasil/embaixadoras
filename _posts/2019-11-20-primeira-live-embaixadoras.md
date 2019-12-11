@@ -6,7 +6,6 @@ categories:
 author_staff_member: ariane_alves
 show_comments: true
 ---
-
 No dia 19/11 foi ao ar o primeiro webinar do Projeto Embaixadoras, e o tema foi Lei de Acesso à Informação (LAI). 
 
 Importante mecanismo de exercício da transparência e da democracia no Brasil, a LAI está em vigor há sete anos, e a análise de sua trajetória levanta um rico debate sobre o acesso a informações públicas no contexto atual. Trazendo experiências distintas e complementares, os convidados da LAIVE (a live sobre a LAI) inauguraram o espaço em que serão abordados os principais assuntos que integram o cenário da inovação cívica no país. 
