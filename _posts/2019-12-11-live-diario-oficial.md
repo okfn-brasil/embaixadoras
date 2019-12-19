@@ -17,8 +17,8 @@ Com mediação de [Mário Sérgio](https://twitter.com/sergiomarioq) e [Fernanda
 
 Clique nas imagens para assistir aos vídeos da live:
 
-# **Parte 1**
-[![Live sobre Querido Diário](/images/posts/2019-12-11-live2.png)](https://www.youtube.com/watch?v=fxmosX6vQmg){:target="_blank"}
+# **Parte 1**  
+[![Live sobre Querido Diário](/images/posts/2019-12-11-live2.png)](https://www.youtube.com/watch?v=fxmosX6vQmg){:target="_blank"}  
 
-# **Parte 2**
-[![Live sobre Querido Diário](/images/posts/2019-12-11-live2.png)](https://www.youtube.com/watch?v=RqExaJidfiQ){:target="_blank"}
+# **Parte 2**  
+[![Live sobre Querido Diário](/images/posts/2019-12-11-live2.png)](https://www.youtube.com/watch?v=RqExaJidfiQ){:target="_blank"}  
