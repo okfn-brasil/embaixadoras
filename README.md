@@ -1,13 +1,13 @@
 # Embaixadoras
-O Brasil é um país onde as instituições possuem complexidades de gestão gigantescas, dadas as suas dimensões continentais e a pluralidade de sistemas e formas de trabalho, que se diferem de instituição a outra, e também entre as cidades. Dessa forma, iniciativas que ajudem a organizar e formatar dados públicos se tornam ações completamente importantes, entretanto, onerosas.
+Em um país de dimensões continentais como o Brasil, é também enorme a complexidade de gestão de suas instiuições. São diversos os sistemas e formas de trabalho, entre municípios, estados, e mesmo dentro de um mesmo governo. Nesse cenário, iniciativas que ajudem a organizar e formatar dados públicos se tornam ações fundamentais, mas onerosas.
 
 Por isso acreditamos que o engajamento da sociedade civil pode ajudar as instituições governamentais a se tornarem organizações mais transparentes e também com mais mecanismos de combate a corrupção.
 
-Projetos de controle social, como a Operação Serenata de Amor, que é um projeto aberto que usa ciência de dados com a finalidade de fiscalizar gastos públicos e compartilhar as informações de forma acessível a qualquer pessoa, estão diretamente ligados à cidadania. A utilização da tecnologia nesse contexto permite a ampliação da participação cidadã em processos decisórios e no desenvolvimento de políticas públicas mais efetivas.
+Projetos de controle social, como a Operação Serenata de Amor, que usa tecnologias abertas e ciência de dados para fiscalizar gastos públicos e compartilhar as informações acessíveis a qualquer pessoa, estão diretamente ligados à cidadania. A utilização da tecnologia nesse contexto permite a ampliação da participação cidadã em processos decisórios e no desenvolvimento de políticas públicas mais efetivas.
 
-Outras iniciativas necessitam de um maior engajamento civil, como é o caso do projeto Querido Diário. Nesse contexto, é necessário um esforço coletivo para centralizar dados de diários oficiais brasileiros, pois são os melhores lugares para conhecer as últimas ações da administração pública, com publicações distintas nos níveis federal, estadual e municipal. Mesmo com os esforços recorrentes de impor a legislação de Liberdade de Informação em todo o país, a comunicação oficial permanece - na maioria dos territórios - em PDFs.
+Outras iniciativas necessitam de engajamento de ainda mais pessoas, como é o caso do projeto Querido Diário. Precisamos fazer um esforço coletivo para centralizar dados de diários oficiais brasileiros, pois são os melhores lugares para conhecer as ações da administração pública, com publicações distintas nos níveis federal, estadual e municipal. Mesmo com os esforços recorrentes para implementar a legislação de Acesso à Informação em todo o país, a comunicação oficial permanece - na maioria dos territórios - em arcaicos arquivos de formato PDF.
 
-Tendo em vista os desafios citados, a Open Knowledge Brasil desenhou um projeto de fomento à projetos que tenham como finalidade o controle social. É o nosso programa Embaixadores. <3
+A rede de pessoas Embaixadoras de Inovação Cívica surgiu para transformar essa realidade com o poder da colaboração e da inovação aberta. É uma iniciativa da Open Knowledge Brasil, que já conta com a participação de mais de 80 pessoas pelo país. Saiba mais no site do programa [Embaixadoras](https://embaixadoras.ok.org.br/) e junte-se a nós! <3
 
 ## Setup
 
