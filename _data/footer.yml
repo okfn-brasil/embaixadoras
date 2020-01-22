@@ -10,6 +10,10 @@
       link: /blog/
 - title: Social
   links:
+    - name: Github
+      link: https://github.com/okfn-brasil/embaixadoras/
+      social_icon: Github
+      new_window: true
     - name: Facebook
       link: https://www.facebook.com/OpenKnowledgeBrasil/
       social_icon: Facebook

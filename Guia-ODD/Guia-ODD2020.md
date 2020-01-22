@@ -1,4 +1,7 @@
-# Guia Embaixadoras para o Open Data Day 2020
+<h2 align="center">Guia Embaixadoras para o Open Data Day 2020</h2>
+<p align="center">
+    <img src="https://github.com/okfn-brasil/embaixadoras/tree/master/images/image-guia-ODD.png">
+</p>
 
 Olá!
 
@@ -32,7 +35,7 @@ Para incentivar o ODD em diversas partes do mundo, a Open Knowledge Internaciona
 4. Dados para o **desenvolvimento igualitário**
 
 *Se a sua ideia envolve alguns dos tópicos acima, inscreva-se até 9/2!*
-*Para mais informações, [acesse o site do ODD](https://opendataday.org/pt_br/) e [assista ao trecho da live](https://youtu.be/MGceIuNm2xY) em que falamos da iniciativa.*
+*Para mais informações, [acesse a página da OK internacional](https://blog.okfn.org/2020/01/16/announcing-the-launch-of-the-open-data-day-2020-mini-grant-scheme/) e [assista ao trecho da live](https://youtu.be/MGceIuNm2xY) em que falamos da iniciativa.*
 ___
 
 ### 3. Como encontrar pessoas interessadas em participar?
