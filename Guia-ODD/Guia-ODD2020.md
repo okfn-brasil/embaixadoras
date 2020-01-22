@@ -38,11 +38,11 @@ Para incentivar o ODD em diversas partes do mundo, a Open Knowledge Internaciona
 *Para mais informações, [acesse a página da OK internacional](https://blog.okfn.org/2020/01/16/announcing-the-launch-of-the-open-data-day-2020-mini-grant-scheme/) e [assista ao trecho da live](https://youtu.be/MGceIuNm2xY) em que falamos da iniciativa.*
 ___
 
-### 3. Como encontrar pessoas interessadas em participar?
+### 3. Como reunir pessoas interessadas em participar?
 
--   Use as redes sociais para encontrar pessoas da sua cidade interessadas em participar (Hashtags são sempre uma boa ideia. Marque suas mensagens com a #ODD2020)
+-   Use as redes sociais para encontrar pessoas da sua cidade que também estão buscando apoio para organizar as atividades (Hashtags são sempre uma boa ideia. Marque suas mensagens com a #ODD2020)
     
--   Busque as comunidades locais de tecnologia, como o hacker clube atuante na cidade e grupos de pessoas desenvolvedoras em uma certa linguagem de programação   
+-   Busque as comunidades locais de tecnologia, como o hacker clube atuante na cidade e grupos de pessoas desenvolvedoras em uma determinada linguagem de programação   
     
 -   Entre em contato com jornalistas de dados que cobrem a região
     
