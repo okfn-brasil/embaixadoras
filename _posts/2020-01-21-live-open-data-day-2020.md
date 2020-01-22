@@ -8,7 +8,7 @@ show_comments: true
 ---
 A décima edição do __Open Data Day__ já começou! Em mais uma [live no canal da Open Knowlegde Brasil no YouTube](https://youtu.be/MGceIuNm2xY){:target="_blank"}, o time de pessoas embaixadoras se reuniu para compartilhar experiências e dar boas dicas sobre como organizar uma edição do __#ODD2020__ nas cidades brasileiras. 
 
-A conversa foi tão valiosa que gerou um documento, o [Guia Embaixadoras para o Open Data Day 2020](https://github.com/okfn-brasil/embaixadoras/blob/master/Guia-ODD2020.md){:target="_blank"}, que pode ser compartilhado entre quem tiver interesse em participar do maior evento mundial sobre dados abertos. 
+A conversa foi tão valiosa que gerou um documento, o [Guia Embaixadoras para o Open Data Day 2020](https://github.com/okfn-brasil/embaixadoras/blob/master/Guia-ODD/Guia-ODD2020.md){:target="_blank"}, que pode ser compartilhado entre quem tiver interesse em participar do maior evento mundial sobre dados abertos. 
 
 
 Com mediação de [Mário Sérgio](https://twitter.com/sergiomarioq){:target="_blank"} e [Fernanda Campagnucci](https://twitter.com/fecampa){:target="_blank"}, a primeira live do ano teve excelentes participações:
