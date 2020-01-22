@@ -94,7 +94,7 @@ Confira alguns exemplos de páginas que disponibilizam bases de dados que podem 
      
 
 ### 7. Aprendendo com quem já fez
-A seguir, dois exemplos de edições anteriores em diferentes cidades que podem servir de inspiração
+A seguir, dois exemplos de edições anteriores em diferentes cidades que podem servir de inspiração para organizar as atividades:
 >   Em 2019, o ODD Fortaleza foi dedicado à libertação dos dados de cota parlamentar da Assembleia Legislativa do Ceará, além de uma sessão de um mutirão de pedidos via LAI
     
 Atividades principais realizadas no evento:
@@ -117,7 +117,6 @@ Sem roteiro fechado, os participantes discutiram ideias, dividiram-se em dois gr
 - Telegram:
     - [Dados Abertos .BR](https://t.me/dadosabertos)
     - [Data Science & Python](https://t.me/datasciencepython)
-    - [Data Science com R](https://t.me/DataSciencecomR)
 - Fóruns
     - [Open Knowledge Foundation](https://discuss.okfn.org/)
     - [DadosAbertos.social](https://dadosabertos.social/)
@@ -125,9 +124,9 @@ Sem roteiro fechado, os participantes discutiram ideias, dividiram-se em dois gr
 
 ---
 \*Participaram da live, contribuindo imensamente para enriquecer os preparativos para o __#ODD2020__, as seguintes pessoas:
-- [Fernanda Campagnucci](https://twitter.com/fecampa), diretora-executiva da Open Knowledge Brasil.
--   Augusto Herrmann Batista: Analista em TI no Ministério da Economia — deu início à política de dados abertos no governo federal brasileiro, onde foi desenvolvedor durante 8 anos. _É colaborador da Open Knowledge e responsável por fazer a versão brasileira do site do_ [_Open Data Day_](https://opendataday.org/pt_br/).
--   [Juliana Trevine](https://twitter.com/_jtrevine): Graduanda no IME e com o coração dedicado ao Grupo de Computação Social da USP (Tecs). _Integra a rede de pessoas Embaixadoras de Inovação Cívica_.
--   [Thays Lavor](https://twitter.com/thayslavor): jornalista que atua como freelancer para veículos nacionais e internacionais, trabalha com jornalismo investigativo e de dados. _Integra a rede de pessoas Embaixadoras de Inovação Cívica, além de ser membro da Escola de Dados_.
+- [Fernanda Campagnucci](https://twitter.com/fecampa), diretora-executiva da Open Knowledge Brasil
+-   Augusto Herrmann Batista: Analista em TI no Ministério da Economia — deu início à política de dados abertos no governo federal brasileiro, onde foi desenvolvedor durante 8 anos. _É colaborador da Open Knowledge e responsável por fazer a versão brasileira do site do_ [_Open Data Day_](https://opendataday.org/pt_br/)
+-   [Juliana Trevine](https://twitter.com/_jtrevine): Graduanda no IME e com o coração dedicado ao Grupo de Computação Social da USP (Tecs). _Integra a rede de pessoas Embaixadoras de Inovação Cívica_
+-   [Thays Lavor](https://twitter.com/thayslavor): jornalista que atua como freelancer para veículos nacionais e internacionais, trabalha com jornalismo investigativo e de dados. _Integra a rede de pessoas Embaixadoras de Inovação Cívica, além de ser membro da Escola de Dados_
  
 ---
