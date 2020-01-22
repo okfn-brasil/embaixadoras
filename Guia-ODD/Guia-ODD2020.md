@@ -23,7 +23,7 @@ O evento já está em sua décima edição. Neste ano, pela primeira vez os part
 A ideia de reservar um dia do ano para abordar a pauta de dados abertos traz uma série de vantagens, entre elas:
 - Dispor de uma massa crítica de pessoas envolvidas
 - Atrair pessoas de distintas áreas para ampliar o discurso e promover a diversidade
-- Oportunidade de publicadores de dados (funcionários de órgãos públicos) envolverem a comunidade, coletarem feedbacks e identificarem problemas que dificilmente se tornariam visíveis sem um olhar dedicado do público externo dedicado a resolver um desafio
+- Oportunidade de publicadores de dados (funcionários de órgãos públicos) envolverem a comunidade, coletarem feedbacks e identificarem problemas que dificilmente se tornariam visíveis sem um olhar direcionado do público externo dedicado a resolver um desafio
 >  Observação: Criar um ambiente ideal para que pessoas experientes sintam-se desafiadas e que pessoas iniciantes sintam-se acolhidas faz toda a diferença! Para isso, além de um bom planejamento da programação, é importante pensar em detalhes como o apoio para chegar ao local do evento, separar um tempo para instalar os programas necessários etc.
 
 ___
