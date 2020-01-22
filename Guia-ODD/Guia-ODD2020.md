@@ -1,10 +1,13 @@
-# Guia Embaixadoras para o Open Data Day 2020
+<p align="center">
+    <h2 align="center">Guia Embaixadoras para o Open Data Day 2020</h2>
+    <img src="/images/image-guia-ODD.png">
+</p>
 
 Olá!
 
-Se você chegou até aqui é porque tem interesse em organizar ou participar da edição 2020 do __Open Data Day__, o Dia dos Dados Abertos. O [Projeto Embaixadoras](https://embaixadoras.ok.org.br/), coordenado pela Open Knowledge Brasil, já está engajado e preparado para apoiar a iniciativa nas cidades brasileiras.
+Se você chegou até aqui é porque tem interesse em organizar ou participar da edição 2020 do __Open Data Day__, o Dia dos Dados Abertos. O [Projeto Embaixadoras](https://embaixadoras.ok.org.br/){:target="_blank"}, coordenado pela Open Knowledge Brasil, já está engajado e preparado para apoiar a iniciativa nas cidades brasileiras.
 
-No último dia 14/01, realizamos uma [live no YouTube](https://youtu.be/MGceIuNm2xY) sobre o __#ODD2020__ com a participação de membros da rede de pessoas embaixadoras*. O resultado gerou este guia com excelentes dicas para quem pretende fazer parte da maior atividade dedicada à abertura de dados no mundo! Confira a seguir:
+No último dia 14/01, realizamos uma [live no YouTube](https://youtu.be/MGceIuNm2xY){:target="_blank"} sobre o __#ODD2020__ com a participação de membros da rede de pessoas embaixadoras*. O resultado gerou este guia com excelentes dicas para quem pretende fazer parte da maior atividade dedicada à abertura de dados no mundo! Confira a seguir:
 
 
 ### 1. O que é o Open Data Day?
@@ -32,7 +35,7 @@ Para incentivar o ODD em diversas partes do mundo, a Open Knowledge Internaciona
 4. Dados para o **desenvolvimento igualitário**
 
 *Se a sua ideia envolve alguns dos tópicos acima, inscreva-se até 9/2!*
-*Para mais informações, [acesse o site do ODD](https://opendataday.org/pt_br/) e [assista ao trecho da live](https://youtu.be/MGceIuNm2xY) em que falamos da iniciativa.*
+*Para mais informações, [acesse a página da OK internacional](https://blog.okfn.org/2020/01/16/announcing-the-launch-of-the-open-data-day-2020-mini-grant-scheme/){:target="_blank"} e [assista ao trecho da live](https://youtu.be/MGceIuNm2xY){:target="_blank"} em que falamos da iniciativa.*
 ___
 
 ### 3. Como encontrar pessoas interessadas em participar?
@@ -79,15 +82,15 @@ Algumas ideias e possibilidades:
     
 > A Open Knowledge Brasil, por meio da Escola de Dados, mantêm uma [base de diversos __tutoriais__](https://escoladedados.org/tutoriais/) relacionados à busca e ao tratamento de dados que podem ser de grande ajuda antes e durante o evento. Não deixe de conferir!
 >
-> Além disso, a Escola também fomenta o __Cerveja com Dados__, evento de abrangência nacional cujo formato pode ser replicado para o ODD 2020. [Saiba como organizar uma edição neste post](https://escoladedados.org/2018/02/que-tal-organizar-um-cerveja-com-dados-em-sua-cidade/).  
+> Além disso, a Escola também fomenta o __Cerveja com Dados__, evento de abrangência nacional cujo formato pode ser replicado para o ODD 2020. [Saiba como organizar uma edição neste post](https://escoladedados.org/2018/02/que-tal-organizar-um-cerveja-com-dados-em-sua-cidade/){:target="_blank"}.  
 
 ### 6. Onde encontrar bases de dados?
 Confira alguns exemplos de páginas que disponibilizam bases de dados que podem ser utilizadas no ODD:
--   Fontes primárias - confira os portais de dados abertos dos três níveis de governo e das três esferas de poder; órgãos estatísticos (ex: [IBGE](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html), [IPEA](http://www.ipeadata.gov.br/Default.aspx))
+-   Fontes primárias - confira os portais de dados abertos dos três níveis de governo e das três esferas de poder; órgãos estatísticos (ex: [IBGE](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html){:target="_blank"}, [IPEA](http://www.ipeadata.gov.br/Default.aspx){:target="_blank"})
     
--   [Repositório de iniciativas](http://dados.gov.br/pagina/outras-iniciativas) do Portal Brasileiro de Dados Abertos
+-   [Repositório de iniciativas](http://dados.gov.br/pagina/outras-iniciativas){:target="_blank"} do Portal Brasileiro de Dados Abertos
     
--   Fontes secundárias - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/), [Base dos Dados](http://www.basedosdados.org/), [Colaboradados](http://colaboradados.com.br/) etc.
+-   Fontes secundárias - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/){:target="_blank"}, [Base dos Dados](http://www.basedosdados.org/){:target="_blank"}, [Colaboradados](http://colaboradados.com.br/){:target="_blank"} etc.
      
 
 ### 7. Aprendendo com quem já fez
@@ -108,23 +111,23 @@ Atividades paralelas para fundamentar os conhecimentos, convidando especialistas
  
  >  Em 2015, uma equipe composta por membros da Transparência Hacker, do Grupo de Estudos de Software Livre da Poli-USP e da Controladoria Geral do Município de São Paulo escolheu como tema a crise hídrica enfrentada pela cidade na época.
 
-Sem roteiro fechado, os participantes discutiram ideias, dividiram-se em dois grupos e dedicaram-se a estudar o nível de volume morto do Sistema Cantareira e os cálculos de consumo das organizações que possuíam contrato com a organização que administra o abastecimento de água na cidade. Um terceiro grupo realizou a __documentação das atividades__, um passo muito importante para registrar e divulgar [o que foi gerado ao longo do dia](http://cafehacker.prefeitura.sp.gov.br/participantes-do-dia-internacional-de-dados-abertos-criam-projetos-sobre-crise-da-agua-e-fazem-pedidos-para-abertura-de-novas-bases/).
+Sem roteiro fechado, os participantes discutiram ideias, dividiram-se em dois grupos e dedicaram-se a estudar o nível de volume morto do Sistema Cantareira e os cálculos de consumo das organizações que possuíam contrato com a organização que administra o abastecimento de água na cidade. Um terceiro grupo realizou a __documentação das atividades__, um passo muito importante para registrar e divulgar [o que foi gerado ao longo do dia](http://cafehacker.prefeitura.sp.gov.br/participantes-do-dia-internacional-de-dados-abertos-criam-projetos-sobre-crise-da-agua-e-fazem-pedidos-para-abertura-de-novas-bases/){:target="_blank"}.
 
 ### 8. Mais informações e contato com a comunidade brasileira de dados abertos
 - Telegram:
-    - [Dados Abertos .BR](https://t.me/dadosabertos)
-    - [Data Science & Python](https://t.me/datasciencepython)
-    - [Data Science com R](https://t.me/DataSciencecomR)
+    - [Dados Abertos .BR](https://t.me/dadosabertos){:target="_blank"}
+    - [Data Science & Python](https://t.me/datasciencepython){:target="_blank"}
+    - [Data Science com R](https://t.me/DataSciencecomR){:target="_blank"}
 - Fóruns
-    - [Open Knowledge Foundation](https://discuss.okfn.org/)
-    - [DadosAbertos.social](https://dadosabertos.social/)
-- [Dados Abertos no Facebook](facebook.com/dadosabertos)
+    - [Open Knowledge Foundation](https://discuss.okfn.org/){:target="_blank"}
+    - [DadosAbertos.social](https://dadosabertos.social/){:target="_blank"}
+- [Dados Abertos no Facebook](facebook.com/dadosabertos){:target="_blank"}
 
 ---
 \*Participaram da live, contribuindo imensamente para enriquecer os preparativos para o __#ODD2020__, as seguintes pessoas:
-- [Fernanda Campagnucci](https://twitter.com/fecampa), diretora-executiva da Open Knowledge Brasil.
--   Augusto Herrmann Batista: Analista em TI no Ministério da Economia — deu início à política de dados abertos no governo federal brasileiro, onde foi desenvolvedor durante 8 anos. _É colaborador da Open Knowledge e responsável por fazer a versão brasileira do site do_ [_Open Data Day_](https://opendataday.org/pt_br/).
--   [Juliana Trevine](https://twitter.com/_jtrevine): Graduanda no IME e com o coração dedicado ao Grupo de Computação Social da USP (Tecs). _Integra a rede de pessoas Embaixadoras de Inovação Cívica_.
--   [Thays Lavor](https://twitter.com/thayslavor): jornalista que atua como freelancer para veículos nacionais e internacionais, trabalha com jornalismo investigativo e de dados. _Integra a rede de pessoas Embaixadoras de Inovação Cívica, além de ser membro da Escola de Dados_.
+- [Fernanda Campagnucci](https://twitter.com/fecampa){:target="_blank"}, diretora-executiva da Open Knowledge Brasil.
+-   Augusto Herrmann Batista: Analista em TI no Ministério da Economia — deu início à política de dados abertos no governo federal brasileiro, onde foi desenvolvedor durante 8 anos. _É colaborador da Open Knowledge e responsável por fazer a versão brasileira do site do_ [_Open Data Day_](https://opendataday.org/pt_br/){:target="_blank"}.
+-   [Juliana Trevine](https://twitter.com/_jtrevine){:target="_blank"}: Graduanda no IME e com o coração dedicado ao Grupo de Computação Social da USP (Tecs). _Integra a rede de pessoas Embaixadoras de Inovação Cívica_.
+-   [Thays Lavor](https://twitter.com/thayslavor){:target="_blank"}: jornalista que atua como freelancer para veículos nacionais e internacionais, trabalha com jornalismo investigativo e de dados. _Integra a rede de pessoas Embaixadoras de Inovação Cívica, além de ser membro da Escola de Dados_.
  
 ---
