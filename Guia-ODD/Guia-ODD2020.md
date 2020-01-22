@@ -1,6 +1,6 @@
 <p align="center">
     <h2 align="center">Guia Embaixadoras para o Open Data Day 2020</h2>
-    <img src="/images/image-guia-ODD.png">
+    <img src="https://github.com/okfn-brasil/embaixadoras/tree/master/images/image-guia-ODD.png">
 </p>
 
 Olá!
