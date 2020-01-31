@@ -90,7 +90,7 @@ Confira alguns exemplos de páginas que disponibilizam bases de dados que podem 
     
 -   [Repositório de iniciativas](http://dados.gov.br/pagina/outras-iniciativas) do Portal Brasileiro de Dados Abertos
     
--   Fontes secundárias - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/), [Base dos Dados](http://www.basedosdados.org/), [Colaboradados](http://colaboradados.com.br/) etc.
+-   Fontes secundárias - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/), [Brasil.io](https://brasil.io), [Base dos Dados](http://www.basedosdados.org/), [Colaboradados](http://colaboradados.com.br/), etc.
      
 
 ### 7. Aprendendo com quem já fez
