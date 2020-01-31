@@ -13,7 +13,7 @@ A conversa foi tão valiosa que gerou um documento, o [Guia Embaixadoras para o 
 
 Com mediação de [Mário Sérgio](https://twitter.com/sergiomarioq){:target="_blank"} e [Fernanda Campagnucci](https://twitter.com/fecampa){:target="_blank"}, a primeira live do ano teve excelentes participações:
 
--   Augusto Herrmann Batista: Analista em TI no Ministério da Economia — deu início à política de dados abertos no governo federal brasileiro, onde foi desenvolvedor durante 8 anos. _É colaborador da Open Knowledge e responsável por fazer a versão brasileira do site do_ [_Open Data Day_](https://opendataday.org/pt_br/){:target="_blank"}.
+-   Augusto Herrmann Batista: Analista em TI no Ministério da Economia — deu início à política de dados abertos no governo federal brasileiro, onde atuou na sua gestão e implementação durante 8 anos. _É colaborador da Open Knowledge e responsável por fazer a versão brasileira do site do_ [_Open Data Day_](https://opendataday.org/pt_br/){:target="_blank"}.
 
 -   [Juliana Trevine](https://twitter.com/_jtrevine){:target="_blank"}: Graduanda no IME e com o coração dedicado ao Grupo de Computação Social da USP (Tecs). _Integra a rede de pessoas Embaixadoras de Inovação Cívica_.
 
