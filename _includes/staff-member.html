@@ -1,7 +1,21 @@
-<a target="_blank" href="https://twitter.com/{{ include.member.twitter }}">
-	<div class="square-image"><img src="{% include relative-src.html src=include.member.image_path %}" alt="{{ include.member.name }}"/></div>
+<div class="square-image"><img src="{% include relative-src.html src=include.member.image_path %}" alt="{{ include.member.name }}"/></div>
 	<div class="details">
 		<div style="color: #41f8fe;" class="name">{{ include.member.name }}</div>
-		<div class="position">{{ include.member.city }}</div>
-	</div>
-</a>
+		<div class="position">
+			{{ include.member.city }}
+			<span style="float: right !important; background: white; border-radius: 5px; padding: 5px;">
+				{% if include.member.twitter %}
+				<a href="https://twitter.com/{{ include.member.twitter }}" target="_blank"><i class="fab fa-twitter-square"></i></a>
+				{% endif %}
+				{% if include.member.facebook %}
+				<a href="https://fb.com/{{ include.member.facebook }}" target="_blank"><i class="fab fa-facebook-square"></i></a>
+				{% endif %}
+				{% if include.member.linkedin %}
+				<a href="https://www.linkedin.com/in/{{ include.member.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
+				{% endif %}
+				{% if include.member.website %}
+				<a href="https://{{ include.member.website }}" target="_blank"><i class="fas fa-globe-americas"></i></a>
+				{% endif %}
+			</span>
+		</div>
+</div>

@@ -9,6 +9,21 @@ Outras iniciativas necessitam de engajamento de ainda mais pessoas, como é o ca
 
 A rede de pessoas Embaixadoras de Inovação Cívica surgiu para transformar essa realidade com o poder da colaboração e da inovação aberta. É uma iniciativa da Open Knowledge Brasil, que já conta com a participação de mais de 80 pessoas pelo país. Saiba mais no site do programa [Embaixadoras](https://embaixadoras.ok.org.br/) e junte-se a nós! <3
 
+
+#### Editando Informações Pessoais
+O arquivo '\_staff_members/\_defaults.md'segue o seguinte padrão
+```
+name: Nome de Exibição
+city: Cidade de Atuação
+image_path: /images/team/nome_da_imagem.jpg
+twitter: usuario
+facebook: usuario
+linkedin: usuario
+website: www.seusite.com.br
+```
+
+Observações, as redes sociais seguem o padrão de acesso por usuário, se você não sabe pegar seu usuário linkedin ou facebook entre em contato. O seu site precisa ser acessível via **HTTPS://**
+
 ## Setup
 
 ```console
