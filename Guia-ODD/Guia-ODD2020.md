@@ -55,6 +55,8 @@ ___
 - Sedes de organizações da sociedade civil    
 -   Empresas de tecnologia (é comum que essas empresas reservem espaços em suas instalações para sediar eventos ao longo do ano, inclusive aos finais de semana)
 > Atente-se aos prazos para a reserva do local e verifique a infraestrutura disponível (ex: qualidade da internet, lotação do espaço, transporte público, proximidade de lanchonetes e restaurantes etc.)
+
+> Assim que tiver um local definido, disponibilize um link com mais informações (pode ser um evento no Facebook, MeetUp etc.) ou mesmo um formulário de incrição e cadastre o evento no [site oficial do ODD 2020](http://opendataday.org/). Dessa forma, mais pessoas encontrarão o ODD local com facilidade.
 ___
 *Precisa de ajuda com modelos de ofício ou cartas de apresentação para reservar o local? A Open Knowledge Brasil pode te ajudar! Entre em contato pelo e-mail contato@ok.org.br*
 
