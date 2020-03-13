@@ -1,8 +1,8 @@
 ---
 name: Evento
-subtitle: Open Data Day 2020 Manaus
-external_url: https://medium.com/serenata/o-que-rolou-na-hackfest-2019-f4d3f6e9b3d0
-image_path: embaixadoras/_events/IMG-20200308-WA0032 (1).jpg
+subtitle: Open Data Day Manaus 2020
+external_url: 
+image_path: /images/events/ODD-Manaus-2020-1.jpg
 ---
 
 # Open Data Day 2020 Manaus
@@ -18,4 +18,7 @@ Apesar de conhecermos muito pouco sobre a floresta amazônica e termos poucos da
 
 Segundo o Open Knowledge Foundation, dados abertos são aqueles que “podem ser livremente usados, reutilizados e redistribuídos por qualquer pessoa - sujeitos, no máximo, à exigência de atribuição da fonte e compartilhamento pelas mesmas regras”, para mim este conceito se resume a uma palavra: interoperabilidade. Este é o grande valor dos dados abertos: permitir a livre circulação de conhecimento! O Open Data Day reforçou nosso propósito enquanto Embaixadores de Inovações Cívicas e deixou a certeza de que o conhecimento livre, baseado em dados abertos e em uma internet neutra, segura e colaborativa, são as chaves para abrir as portas, os caminhos e os horizontes de uma sociedade melhor.
 
-LUCAS PRADO, 35 anos, é servidor público, escritor, cientista de dados, Embaixador de Inovação Cívica da OKBR e Co-Founder da Meritocracity.
+
+![Lucas Prado](/images/events/ODD-Manaus-2020-2.jpg)
+
+*LUCAS PRADO, 35 anos, é servidor público, escritor, cientista de dados, Embaixador de Inovação Cívica da OKBR e Co-Founder da Meritocracity.*
