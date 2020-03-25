@@ -7,7 +7,7 @@ show_comments: true
 ---
 Estamos a todo vapor com o segundo ciclo de inscrições do projeto Embaixadoras! Inscreva-se [pelo formulário](https://docs.google.com/forms/d/e/1FAIpQLScpymQF4cJnz7r8gSbiG-V8pd5r-nyvI-NBFObdAt1rz6LFFw/viewform){:target="_blank"} até o dia 05/04 e aguarde nosso contato.
 
-Você já viu [neste post](https://embaixadoras.ok.org.br/civic tech/2020/03/22/convocatória-2-ciclo-1/){:target="_blank"} o que é Inovação Cívica e como é possível contribuir com os projetos da Open Knowledge Brasil. Mas quais são nossos projetos? Veja a seguir as iniciativas que estamos construindo coletivamente:
+Você já viu [neste post](https://embaixadoras.ok.org.br/civic%20tech/2020/03/22/convocatoria-2-ciclo-1){:target="_blank"} o que é Inovação Cívica e como é possível contribuir com os projetos da Open Knowledge Brasil. Mas quais são nossos projetos? Veja a seguir as iniciativas que estamos construindo coletivamente:
 
 ## Serenata de Amor
 Desde 2016, a [Operação Serenata de Amor](https://serenata.ai/){:target="_blank"} utiliza inteligência artificial e dados abertos para fiscalizar os gastos dos deputados federais pelo uso da [Cota para Exercício da Atividade Parlamentar (CEAP)](https://www2.camara.leg.br/transparencia/acesso-a-informacao/copy_of_perguntas-frequentes/cota-para-o-exercicio-da-atividade-parlamentar){:target="_blank"}. Centenas de pessoas já contribuíram com o projeto, seja [aprimorando seu código](https://github.com/okfn-brasil/serenata-de-amor){:target="_blank"}, seja apoiando financeiramente a dedicação da equipe. 
@@ -26,4 +26,4 @@ Para facilitar o processo e fazer com que a identificação não seja uma barrei
 
 -
 
-Quer contribuir ativamente com esses projetos e ajudar a apromorar ações de Inovação Cívica no Brasil? [Venha ser](https://docs.google.com/forms/d/e/1FAIpQLScpymQF4cJnz7r8gSbiG-V8pd5r-nyvI-NBFObdAt1rz6LFFw/viewform){:target="_blank"} uma pessoa Embaixadora!
+Quer contribuir ativamente com esses projetos e ajudar a aprimorar ações de Inovação Cívica no Brasil? [Venha ser](https://docs.google.com/forms/d/e/1FAIpQLScpymQF4cJnz7r8gSbiG-V8pd5r-nyvI-NBFObdAt1rz6LFFw/viewform){:target="_blank"} uma pessoa Embaixadora!
