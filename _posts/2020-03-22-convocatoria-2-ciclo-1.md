@@ -5,9 +5,6 @@ categories:
 author_staff_member: ariane_alves
 show_comments: true
 ---
-
-Olá!
-
 Você, pessoa interessada em ampliar ações de inovação cívica pelo Brasil, está oficialmente convidada a integrar a nossa rede, que já conta com mais de 70 participantes! Para isso, [preencha o formulário de inscrição](https://docs.google.com/forms/d/e/1FAIpQLScpymQF4cJnz7r8gSbiG-V8pd5r-nyvI-NBFObdAt1rz6LFFw/viewform){:target="_blank"} até o dia 05/04 e aguarde nosso contato.
 
 ## O que é Inovação Cívica?

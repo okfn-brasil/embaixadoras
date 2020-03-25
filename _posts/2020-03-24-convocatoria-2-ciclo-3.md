@@ -6,9 +6,6 @@ categories:
 author_staff_member: ariane_alves
 show_comments: true
 ---
-
-Olá!
-
 Já se inscreveu para o segundo ciclo de convocação da rede de pessoas Embaixadoras de Inovação Cívica? [Preencha o formulário](https://docs.google.com/forms/d/e/1FAIpQLScpymQF4cJnz7r8gSbiG-V8pd5r-nyvI-NBFObdAt1rz6LFFw/viewform){:target="_blank"} até o dia 05/04 e aguarde nosso contato :)
 
 Se quiser saber o que nosso time já fez até aqui desde outubro de 2019, confira a lista a seguir:

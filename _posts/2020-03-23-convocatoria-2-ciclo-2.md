@@ -5,9 +5,6 @@ categories:
 author_staff_member: ariane_alves
 show_comments: true
 ---
-
-Olá!
-
 Estamos a todo vapor com o segundo ciclo de inscrições do projeto Embaixadoras! Inscreva-se [pelo formulário](https://docs.google.com/forms/d/e/1FAIpQLScpymQF4cJnz7r8gSbiG-V8pd5r-nyvI-NBFObdAt1rz6LFFw/viewform){:target="_blank"} até o dia 05/04 e aguarde nosso contato.
 
 Você já viu [neste post](https://embaixadoras.ok.org.br/civic tech/2020/03/22/convocatória-2-ciclo-1/){:target="_blank"} o que é Inovação Cívica e como é possível contribuir com os projetos da Open Knowledge Brasil. Mas quais são nossos projetos? Veja a seguir as iniciativas que estamos construindo coletivamente:
