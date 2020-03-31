@@ -28,4 +28,4 @@ Confira o perfil dos participantes:
 
 Clique na imagem para assistir ao vídeo da live:
 
-[![Live Como Foi o ODD](/images/posts/2020-04-01-capa-como-foi-ODD.png)(https://www.youtube.com/watch?v=-vcTmiON8Y4){:target="_blank"}  
+[![Live Como Foi o ODD](/images/posts/2020-04-01-capa-como-foi-ODD.png)](https://www.youtube.com/watch?v=-vcTmiON8Y4){:target="_blank"}  
