@@ -12,7 +12,7 @@ Como sua cidade celebrou o Dia dos Dados Abertos?
 Na última quarta-feira, 25/03, nosso time de pessoas embaixadoras se reuniu em mais uma [live no YouTube](https://www.youtube.com/watch?v=-vcTmiON8Y4){:target="_blank"} para compartilhar experiências de quatro dos [15 eventos do Open Data Day](https://opendataday.org/#map){:target="_blank"} registrados no Brasil em 2020.  
 
 
-[![Chamada para Live Como Foi o ODD](/images/posts/2020-04-01-como-foi-ODD-card.png)]
+![Chamada para Live Como Foi o ODD](/images/posts/2020-04-01-como-foi-ODD-card.png)
 
 A live foi mediada por [Mário Sérgio](https://twitter.com/sergiomarioq){:target="_blank"} e [Ariane Alves](https://twitter.com/ArianeCml){:target="_blank"} e abordou tópicos como planejamento e curadoria do evento, destaques e desafios. Vale a pena assistir para saber como você também pode planejar um evento sobre dados abertos na sua cidade.
 
@@ -28,4 +28,4 @@ Confira o perfil dos participantes:
 
 Clique na imagem para assistir ao vídeo da live:
 
-[![Live Como Foi o ODD](/images/posts/2020-04-01-capa-como-foi-ODD.png)](https://www.youtube.com/watch?v=-vcTmiON8Y4){:target="_blank"}  
+[![Live Como Foi o ODD](/images/posts/2020-04-01-capa-como-foi-ODD.png)(https://www.youtube.com/watch?v=-vcTmiON8Y4){:target="_blank"}  
