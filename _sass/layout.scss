@@ -127,7 +127,12 @@ section {
 		color: #fff;
 		transform: translateY(1px);
 	}
+	@media all and (max-width: 771px) { 
+		font-size: 18px; 
+		padding: 10px 15px;
+	 }
 }
+
 
 .halves {
 	display: flex;
