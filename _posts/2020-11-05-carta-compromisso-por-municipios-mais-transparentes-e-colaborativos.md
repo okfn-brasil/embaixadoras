@@ -7,7 +7,7 @@ categories:
 author_staff_member: ariane_alves
 show_comments: true
 ---
-A Rede de pessoas Embaixadoras de Inovação Cívica da Open Knowledge Brasil (OKBR) elaborou uma carta-compromisso para que as pessoas candidatas às eleições de 2020 se engajem e promovam uma gestão que priorize a transparência e a abertura de dados públicos. A redação da carta foi liderada pela engenheira de software e embaixadora [Ana Paula Gomes](https://twitter.com/AnaPaulaGomess){:target="_blank"} e pela coordenadora de Advocacy e Pesquisa da OKBR, Danielle Bello.
+A Rede de pessoas Embaixadoras de Inovação Cívica da Open Knowledge Brasil (OKBR) elaborou uma carta-compromisso para que as pessoas candidatas às eleições de 2020 se engajem e promovam uma gestão que priorize a transparência e a abertura de dados públicos. A redação da carta foi liderada pela engenheira de software e embaixadora [Ana Paula Gomes](https://twitter.com/AnaPaulaGomess){:target="_blank"} e pela coordenadora de Advocacy e Pesquisa da OKBR, [Danielle Bello](https://www.linkedin.com/in/daniellebello/){:target="_blank"}.
 
 A carta está disponível em duas versões: uma para as pessoas candidatas à prefeitura e outra para a câmara municipal. [Ambas podem ser acessadas nesta pasta](https://drive.google.com/drive/folders/1Y3pOXAt5lB40xdmylV_LfPHN5wrJtmVB){:target="_blank"}.
 
