@@ -1,7 +1,7 @@
 
 <h2 align="center">Guia Embaixadoras para o Open Data Day 2022</h2>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/okfn-brasil/embaixadoras/master/images/image-guia-ODD2022.png">
+    <img src="https://github.com/okfn-brasil/embaixadoras/blob/main/images/image-guia-ODD2022.png">
 </p>
 
 Olá!
