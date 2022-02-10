@@ -25,7 +25,7 @@ A ideia de reservar um dia do ano para abordar a pauta de dados abertos traz uma
 >  Observação: Criar um ambiente ideal para que pessoas experientes sintam-se desafiadas e que pessoas iniciantes sintam-se acolhidas faz toda a diferença! Para isso, além de um bom planejamento da programação, é importante pensar em detalhes como o apoio para chegar ao local do evento (caso ele seja presencial), separar um tempo para instalar os programas necessários etc.
 
 ### 3. Como reunir pessoas interessadas em participar?
-- Use as redes sociais para encontrar pessoas da sua cidade que também estão buscando apoio para organizar as atividades (Hashtags são sempre uma boa ideia. Marque suas mensagens com #ODD2022)
+- Use as redes sociais para encontrar pessoas da sua cidade que também estão buscando apoio para organizar as atividades (Hashtags são sempre uma boa ideia. Marque suas mensagens com __#ODD2022__)
 - Busque as comunidades locais de tecnologia, como o hacker clube atuante na cidade e grupos de pessoas desenvolvedoras em uma determinada linguagem de programação do seu interesse   
 - Entre em contato com jornalistas de dados que cobrem a região
 - Contate funcionários de órgãos de controle (como tribunais de contas) em busca de apoio para analisar as bases de dados
@@ -42,7 +42,7 @@ Devido à pandemia do coronavírus, recomendamos que os eventos sejam realizados
 
 Assim que tiver um local definido, disponibilize um link com mais informações (pode ser um evento no Facebook, Eventbrite, Sympla, MeetUp etc.) ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do ODD 2022](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
 
-Você pode usar neste [Gerador de Logos](http://odd.structure-and-representation.com/) para conferir se já existe ou para criar um logotipo para sua cidade e utilizá-lo para divulgar seu evento.
+Você pode usar este [Gerador de Logos](http://odd.structure-and-representation.com/) para conferir se já existe ou para criar um logotipo para sua cidade e utilizá-lo para divulgar seu evento.
 ___
 *Precisa de ajuda com modelos de ofício ou cartas de apresentação para reservar o local? A Open Knowledge Brasil pode te ajudar! Entre em contato pelo e-mail contato@ok.org.br*
 
@@ -76,15 +76,15 @@ Ainda não sabe sobre o que falar? A Open Knowledge Foundation também recomenda
 
 ### 6. Onde encontrar bases de dados?
 Confira alguns exemplos de páginas que disponibilizam bases de dados que podem ser utilizadas no ODD:
-- **Fontes primárias** - confira os portais de dados abertos dos três níveis de governo e das três esferas de poder; órgãos estatísticos (ex: [Repositório de Dados](https://dados.gov.br/dataset) do Portal Brasileiro de Dados Abertos; [IBGE](https://www.ibge.gov.br/estatisticas/todos-os-produtos-estatisticas.html))
+- **Fontes primárias** - confira os portais de dados abertos dos três níveis de governo e das três esferas de poder; órgãos estatísticos (exs: [Repositório de Dados](https://dados.gov.br/dataset) do Portal Brasileiro de Dados Abertos, [IBGE](https://www.ibge.gov.br/estatisticas/todos-os-produtos-estatisticas.html))
 - **Fontes secundárias** - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/), [Brasil.io](https://brasil.io), [Base dos Dados](http://www.basedosdados.org/), [Colaboradados](http://colaboradados.com.br/), etc.
 
 - Algumas sugestões associadas aos temas do ODD 2022:
-  - A Escola de Dados compilou uma série de [fontes de dados](https://escoladedados.org/tutoriais/fontes-de-dados-para-investigacoes-sobre-meio-ambiente/) para investigar o Meio Ambiente;
+  - A Escola de Dados compilou uma série de [fontes de dados](https://escoladedados.org/tutoriais/fontes-de-dados-para-investigacoes-sobre-meio-ambiente/) para investigar o Meio Ambiente
   - O Portal Brasileiro de Dados Abertos publica várias bases de dados agrupadas na temática de [Orçamento](https://dados.gov.br/dataset?tags=Or%C3%A7amento)
   - O IBGE publica suas [Bases Cartográficas Contínuas](
 https://www.ibge.gov.br/geociencias/cartas-e-mapas/bases-cartograficas-continuas/15759-brasil.html?=&t=sobre)
-  - A Base dos Dados agrupa diversas bases interessantes, nacionais e internacionais, sob a categoria [Diversidade e Inclusão](https://basedosdados.org/dataset?group=diversidade&order_by=score]
+  - A Base dos Dados agrupa diversas bases interessantes, nacionais e internacionais, sob a categoria [Diversidade e Inclusão](https://basedosdados.org/dataset?group=diversidade&order_by=score)
   - A Marinha do Brasil disponibiliza um [Banco Nacional de Dados Oceanográficos](https://www.marinha.mil.br/chm/bndo). É possível [solicitar dados](http://labdados.io.usp.br/solicit.html) de interesse ao Instituto de Oceanografia da USP
 
 - Mais sugestões de bases relacionadas aos temas do ODD 2022 podem ser conferidas na seção de [Recursos para Eventos](https://opendataday.org/pt_br/#resources)
@@ -122,9 +122,9 @@ Sem roteiro fechado, os participantes discutiram ideias, dividiram-se em dois gr
   - [Open Knowledge Foundation](https://discuss.okfn.org/)
   - [DadosAbertos.social](https://dadosabertos.social/)
 - Discord
-  -[Open Knowledge Brasil](bit.ly/discord-ok)
+  - [Open Knowledge Brasil](bit.ly/discord-ok)
 
-### 9. DOCUMENTE OS PROCESSOS
+### 9. Documente os processos
 Se possível, registre os acontecimentos do seu evento. Palestrantes, temas abordados, bases de dados utilizadas, atividades realizadas, resultados, impressões e lições aprendidas. Em seguida, busque divulgar a documentação para compartilhar conhecimento com mais pessoas interessadas. A Rede Embaixadoras possui um repositório de registros que pode ser acessado [aqui](https://embaixadoras.ok.org.br/events/).
 
 ___
