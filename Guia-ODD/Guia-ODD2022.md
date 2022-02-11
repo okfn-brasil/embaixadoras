@@ -63,8 +63,6 @@ Algumas ideias e possibilidades:
 - Reservar um momento de contato com ODDs de outras cidades para trocar experiências e informações
 
 > A Open Knowledge Brasil, por meio da Escola de Dados, mantém uma [base de diversos __tutoriais__](https://escoladedados.org/tutoriais/) relacionados à busca e ao tratamento de dados que podem ser de grande ajuda antes e durante o evento. Não deixe de conferir!
->
-> Além disso, a Escola também fomenta o __Cerveja com Dados__, evento de abrangência nacional cujo formato pode ser replicado para o ODD 2022 com as devidas adaptações ao contexto da pandemia. [Saiba como organizar uma edição neste post](https://escoladedados.org/2018/02/que-tal-organizar-um-cerveja-com-dados-em-sua-cidade/).  
 
 Ainda não sabe sobre o que falar? A Open Knowledge Foundation também recomenda o enfoque em pelo menos um destes cinco temas, dada sua relevância no contexto de uso de dados abertos:
 - Dados do meio ambiente
