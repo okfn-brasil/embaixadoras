@@ -34,13 +34,13 @@ A ideia de reservar um dia do ano para abordar a pauta de dados abertos traz uma
 ### 4. Onde realizar o evento?
 Devido à pandemia do coronavírus, recomendamos que os eventos sejam realizados preferencialmente online. Caso você queira realizar um evento presencial, assegure-se de seguir os protocolos de segurança evitando aglomerações em ambientes fechados, certificando-se que o ambiente é bem ventilado, exigindo o uso de máscaras, verificando se os participantes estão em dia com as doses de vacinação aplicadas em sua cidade e, se possível, disponibilizando material de higiene como álcool de concentração 60% a 80%.
 
-- Plataformas de streaming (Zoom, StreamYard, Google Meet, Youtube)
+- Ferramentas de streaming (preferencialmente aquelas baseadas em software livre e que [respeitam a privacidade dos usuários](https://switching.software/replace/zoom/), como [Jitsi Meet](https://jitsi.org/), [Big Blue Button](https://bigbluebutton.org/), [Jami](https://jami.net/), [OBS Studio](https://obsproject.com/pt-br), [Matrix](https://matrix.org/) e [PeerTube](https://joinpeertube.org/), em vez de plataformas das big tech como Zoom, StreamYard, Google Meet, YouTube)
 - Locais públicos (ex: universidades, bibliotecas, centros culturais, escolas, sedes de conselhos de bairro)
 - Sedes de organizações da sociedade civil
 - Empresas de tecnologia (é comum que essas empresas reservem espaços em suas instalações para sediar eventos ao longo do ano, inclusive aos finais de semana)
 > Atente-se aos prazos para a reserva do local e verifique a infraestrutura disponível (ex: qualidade da internet, lotação do espaço, transporte público, proximidade de lanchonetes e restaurantes etc.)
 
-Assim que tiver um local definido, disponibilize um link com mais informações (pode ser um evento no Facebook, Eventbrite, Sympla, MeetUp etc.) ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do ODD 2022](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
+Assim que tiver um local definido, disponibilize um link com mais informações (preferencialmente em ferramentas baseadas em software livre e que [respeitam a privacidade dos usuários](https://switching.software/replace/meetup/), como o [Mobilizon](https://joinmobilizon.org/en/), [Gath.io](https://gath.io/), [Gancio](https://gancio.org/), ou [GetTogether](https://gettogether.community/), em vez de usar um evento no Facebook (só acessa quem tem conta), Eventbrite, Sympla, MeetUp e outras plataformas que têm políticas de privacidade questionáveis) ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do ODD 2022](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
 
 Você pode usar este [Gerador de Logos](http://odd.structure-and-representation.com/) para conferir se já existe ou para criar um logotipo para sua cidade e utilizá-lo para divulgar seu evento.
 ___
