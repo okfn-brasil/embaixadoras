@@ -25,6 +25,6 @@ Recebemos um retorno muito positivo, sobretudo dos servidores públicos, sobre i
 Estamos criando uma nova cultura de transparência e dados abertos na Prefeitura e na cidade de Mogi das Cruzes, e este foi um dos nossos primeiros passos rumo à transformação que queremos. Nosso principal resultado foi ver o envolvimento atento dos servidores públicos nas oficinas - deu para ver e para sentir que eles estão ávidos por saberem cada vez mais como podem fazer do Executivo mogiano um lugar com mais transparência e controle social!" - Severino Neto, secretário de Transparência e Participação
 
 ![ODD Mogi](/images/events/2022-03-18-ODD-Mogi6.jpg)
-
+Crédito das fotos: Pedro Chavedar/PMMC
 -----------
 *Jamile Santana é jornalista de dados, co-fundadora do projeto independente Painel Jornalismo de Dados, analista de dados e impacto da agência Énois e Embaixadora de Inovação Cívica da Open Knowledge Brasil.*
