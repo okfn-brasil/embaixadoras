@@ -34,8 +34,11 @@ A ideia de reservar um dia do ano para abordar a pauta de dados abertos traz uma
 ### 4. Onde realizar o evento?
 Devido à pandemia do coronavírus, recomendamos que os eventos sejam realizados preferencialmente online. Caso você queira realizar um evento presencial, assegure-se de seguir os protocolos de segurança evitando aglomerações em ambientes fechados, certificando-se que o ambiente é bem ventilado, exigindo o uso de máscaras, verificando se os participantes estão em dia com as doses de vacinação aplicadas em sua cidade e, se possível, disponibilizando material de higiene como álcool de concentração 60% a 80%.
 
-- Ferramentas de streaming (preferencialmente aquelas baseadas em software livre e que [respeitam a privacidade dos usuários](https://switching.software/replace/zoom/), como [Jitsi Meet](https://jitsi.org/), [Big Blue Button](https://bigbluebutton.org/), [Jami](https://jami.net/), [OBS Studio](https://obsproject.com/pt-br), [Matrix](https://matrix.org/) e [PeerTube](https://joinpeertube.org/), em vez de plataformas das big tech como Zoom, StreamYard, Google Meet, YouTube)
+- Ferramentas de streaming e de videoconferência
+  - Ferramentas baseadas em software livre são preferencialmente indicadas: [Jitsi Meet](https://jitsi.org/), [Big Blue Button](https://bigbluebutton.org/), [Jami](https://jami.net/), [OBS Studio](https://obsproject.com/pt-br) e [PeerTube](https://joinpeertube.org/)
+  - Ferramentas em software proprietário: Zoom, StreamYard, Google Meet, YouTube
 - Ferramentas de espaços virtuais (ex.: [WorkAdventure](https://workadventu.re/), Gather) onde as pessoas podem se movimentar e se organizar para conversar em grupos espontâneos de tamanho reduzido
+- Ferramentas de bate-papo em texto: [Matrix](https://matrix.org/), [XMPP](https://xmpp.org/software/clients/)
 - Locais públicos (ex: universidades, bibliotecas, centros culturais, escolas, sedes de conselhos de bairro)
 - Sedes de organizações da sociedade civil
 - Empresas de tecnologia (é comum que essas empresas reservem espaços em suas instalações para sediar eventos ao longo do ano, inclusive aos finais de semana)
