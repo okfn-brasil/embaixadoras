@@ -44,7 +44,15 @@ Devido à pandemia do coronavírus, recomendamos que os eventos sejam realizados
 - Empresas de tecnologia (é comum que essas empresas reservem espaços em suas instalações para sediar eventos ao longo do ano, inclusive aos finais de semana)
 > Atente-se aos prazos para a reserva do local e verifique a infraestrutura disponível (ex: qualidade da internet, lotação do espaço, transporte público, proximidade de lanchonetes e restaurantes etc.)
 
-Assim que tiver um local definido, disponibilize um link com mais informações (preferencialmente em ferramentas baseadas em software livre e que [respeitam a privacidade dos usuários](https://switching.software/replace/meetup/), como o [Mobilizon](https://joinmobilizon.org/en/), [Gath.io](https://gath.io/), [Gancio](https://gancio.org/), ou [GetTogether](https://gettogether.community/), em vez de usar um evento no Facebook (só acessa quem tem conta), Eventbrite, Sympla, MeetUp e outras plataformas que têm políticas de privacidade questionáveis) ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do ODD 2022](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
+Assim que tiver um local definido, disponibilize um link com mais informações ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do Open Data Day](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
+
+- Ferramentas para eventos
+    - Ferramentas baseadas em software livre são preferencialmente indicadas: [Mobilizon](https://joinmobilizon.org/en/), [Gath.io](https://gath.io/), [Gancio](https://gancio.org/), ou [GetTogether](https://gettogether.community/)
+    - Ferramentas de software proprietário: evento no Facebook (limitado a usuários com conta na plataforma), [Eventbrite](https://www.eventbrite.com.br/), [Sympla](https://www.sympla.com.br/), [MeetUp](https://www.meetup.com/pt-BR/)
+
+> Ao escolher uma ferramenta ou plataforma, atente-se se há ou não a necessidade da pessoa criar uma conta e ao quão favoráveis aos usuários são os termos de uso e política de privacidade. Caso se inscrever no evento exija um grande número de passos, fazer cadastro com coleta de muitos dados ou tenha uma política desfavorável, algumas pessoas podem desistir de participar do evento.
+> 
+> Consulte sites como [ToS;DR.org](https://tosdr.org/pt_BR/frontpage) e [privacidade.digital](https://www.privacidade.digital/) para ver avaliações de privacidade e resumos das políticas de dados adotadas por cada plataforma.
 
 Você pode usar este [Gerador de Logos](http://odd.structure-and-representation.com/) para conferir se já existe ou para criar um logotipo para sua cidade e utilizá-lo para divulgar seu evento.
 ___
