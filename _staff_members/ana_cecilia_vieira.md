@@ -6,4 +6,7 @@ twitter: cecivieira
 facebook:
 linkedin: cecivieira
 website: medium.com/@cecivieira
+badges:
+  - Especialista
+  - Contribuidora
 ---

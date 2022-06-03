@@ -6,4 +6,5 @@ twitter:
 facebook:
 linkedin:
 website:
+badges:
 ---
