@@ -9,13 +9,16 @@ subtitle: Conheça o sistema de Badges.
 	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_badges/" class="btn"><strong>&#9998;</strong>Manage Badges</a></p>
     {% for badge in site.badges %}
       {% include badge.html badge=badge %}
-      <ul class="image-grid">
+      <br>
+      <ul class="image-grid-simples">
         {% for member in site.staff_members %}
-          {% if member.badges contains badge.title %}
-            <li>{% include staff-member.html member=member %}</li>
+          {% if member.badges contains badge.cod %}
+            <li>{% include staff-member-simple.html member=member %}</li>
           {% endif %}
         {% endfor %}
       </ul>
+      <br>
+      <br>
     {% endfor %}
 	</div>
 </section>
