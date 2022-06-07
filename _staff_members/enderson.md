@@ -6,4 +6,6 @@ twitter: iluendido
 website: www.endersonmenezes.com.br
 linkedin: endersonmenezes
 facebook: menezesenderson
+badges:
+  - 02 
 ---

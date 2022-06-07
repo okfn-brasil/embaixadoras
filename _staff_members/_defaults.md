@@ -2,6 +2,7 @@
 name:
 city:
 image_path:
+badged_image_path:
 twitter:
 facebook:
 linkedin:

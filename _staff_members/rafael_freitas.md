@@ -4,4 +4,6 @@ city: Uberlândia - MG
 position: Embaixador
 image_path: /images/team/rafael_freitas.jpg
 twitter: oraffaudi
+badges:
+  - 04 
 ---

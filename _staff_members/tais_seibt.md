@@ -6,4 +6,6 @@ twitter:
 facebook:
 linkedin: taisseibt
 website: afonte.info
+badges:
+  - 04 
 ---
