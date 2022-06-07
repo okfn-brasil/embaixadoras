@@ -127,8 +127,8 @@ section {
 		color: #fff;
 		transform: translateY(1px);
 	}
-	@media all and (max-width: 771px) { 
-		font-size: 18px; 
+	@media all and (max-width: 771px) {
+		font-size: 18px;
 		padding: 10px 15px;
 	 }
 }
@@ -225,6 +225,85 @@ section {
 	}
 
 	.position {
+		margin-top: 5px;
+		color: #fff;
+	}
+
+	.filler {
+		border: 0;
+	}
+}
+
+.image-grid-simples {
+	padding: 0;
+	list-style: none;
+	display: flex;
+	flex-flow: wrap;
+	text-align: center;
+	// margin: 0 0;
+  gap: 1rem 1rem;
+  justify-content: center;
+
+
+	li {
+		padding: 0;
+		box-sizing: border-box;
+		width: 15%;
+		position: relative;
+		overflow: hidden;
+		// margin: 1rem;
+		border-radius: 5px;
+		text-align: left;
+		border: 1px solid $brand-color;
+		line-height: 0;
+
+		@media #{$tablet} {
+			flex: 0 1 50%;
+		}
+
+		@media #{$desktop} {
+			flex: 0 1 15%;
+		}
+
+		img {
+			min-width: 100%;
+		}
+
+		> a:hover {
+			opacity: 0.9;
+		}
+	}
+
+	.square-image {
+		height: 150px;
+
+		img {
+			min-height: 100%;
+			width: 100%;
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			transform: translateX(-50%) translateY(-50%);
+		}
+	}
+
+	.details {
+		line-height: 0.75;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background: rgba(0, 0, 0, 0.5);
+		padding: 10px;
+	}
+
+	.name {
+		font-size: 1rem;
+		color: $brand-color;
+	}
+
+	.position {
+    font-size: 1rem;
 		margin-top: 5px;
 		color: #fff;
 	}
