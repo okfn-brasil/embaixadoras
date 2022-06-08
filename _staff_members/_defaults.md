@@ -1,8 +1,8 @@
 ---
 name:
 city:
-image_path:
-badged_image_path:
+image_path: /images/team/
+badged_image_path: 
 twitter:
 facebook:
 linkedin:
