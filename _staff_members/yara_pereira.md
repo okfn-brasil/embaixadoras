@@ -2,6 +2,7 @@
 name: Yara Pereira Lima Almeida
 city: Brasília - DF
 image_path: /images/team/yara_pereira.jpg
+badged_image_path: /images/team/badged_team/yara_pereira.jpg
 twitter:
 facebook: yarapla
 linkedin: yara-pereira-lima-almeida-16183a111
