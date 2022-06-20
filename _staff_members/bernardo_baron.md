@@ -1,8 +1,8 @@
 ---
 name: Bernardo Baron
 city: Niterói-RJ
-image_path: /images/team/Bernardo_Baron.jpg
-badged_image_path: /images/team/badged_team/Bernardo_Baron.jpg
+image_path: /images/team/bernardo_baron.png
+badged_image_path: /images/team/badged_team/bernardo_baron.jpg
 twitter:
 badges:
   - 01
