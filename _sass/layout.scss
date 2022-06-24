@@ -13,6 +13,11 @@
 	max-width: 1000px;
 }
 
+.container-badges{
+	padding-left: 0;
+	margin-top: 3rem;
+}
+
 header {
 	color: #fff;
 	padding: 20px 0;
@@ -235,7 +240,7 @@ section {
 	.filler {
 		border: 0;
 	}
-}
+} 
 
 .image-grid-simples {
 	padding: 0;
@@ -244,8 +249,10 @@ section {
 	flex-flow: wrap;
 	text-align: center;
 	// margin: 0 0;
-  gap: 1rem 1rem;
-  justify-content: center;
+  	gap: 1rem 1rem;
+  	justify-content: flex-start;
+	margin-top: 1.5rem;
+	// line-height: 15px;
 
 
 	li {
@@ -303,12 +310,14 @@ section {
 	.name {
 		font-size: 1rem;
 		color: $brand-color;
+		line-height: 15px;
 	}
 
 	.position {
     font-size: 1rem;
-		margin-top: 5px;
+		margin-top: 3px;
 		color: #fff;
+		line-height: 15px;
 	}
 
 	.filler {
