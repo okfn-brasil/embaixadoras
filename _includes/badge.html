@@ -1,0 +1,15 @@
+<div class="container halves container-badges">
+  <div style="color: #121648;">
+    <div class="square-image">
+      <img src="{% include relative-src.html src=include.badge.image_path %}" alt="{{ include.badge.title }}" align="left" width="250"
+     height="250"/>
+    </div>
+    <h3 class="editable" style="margin-left: 1em; padding: 0 0 0 9em" align="left">
+      {{ include.badge.title }}
+    </h3>
+    <p class="editable" style="margin-left: 1em; padding: 0 0 0 12em" align="left">
+      {{ include.badge.description }}
+    </p>
+    <br>
+  </div>
+</div>

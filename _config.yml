@@ -27,6 +27,8 @@ collections:
     output: false
   events:
     output: true
+  badges:
+    output: false
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -75,6 +77,14 @@ defaults:
         image_path:
           width: 600
           height: 600
+  - scope:
+      path: ""
+      type: "badges"
+    values:
+      _options:
+        image_path:
+          width: 150
+          height: 150
   - scope:
       path: ""
       type: "pages"

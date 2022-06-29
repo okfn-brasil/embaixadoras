@@ -1,0 +1,35 @@
+---
+title: badges
+heading: Sistema de Badges
+subtitle: Para reconhecer o esforço e a contribuição das pessoas embaixadoras com atividades que ajudam a ampliar o alcance das iniciativas de inovação cívica, criamos o sistema de badges.
+---
+
+<section class="diagonal" style="background: #e9e9ea">
+
+  <div class="container">
+    <h1 class="editable" align="left"> Como funciona </h1>
+    <br>
+    <p class="editable" align="left">
+      Uma pessoa embaixadora de inovação cívica pode contribuir com a rede de diversas maneiras. A seguir, listamos as categorias que contemplam as principais atividades já realizadas pelos integrantes da rede desde 2019, além de apresentar os membros que integram cada categoria.
+    </p>
+  </div>
+  <br>
+  <br>
+
+  <div class="container">
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_badges/" class="btn"><strong>&#9998;</strong>Manage Badges</a></p>
+    {% for badge in site.badges %}
+      {% include badge.html badge=badge %}
+      <br>
+      <ul class="image-grid-simples">
+        {% for member in site.staff_members %}
+          {% if member.badges contains badge.cod %}
+            <li>{% include staff-member-simple.html member=member %}</li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <br>
+      <br>
+    {% endfor %}
+	</div>
+</section>

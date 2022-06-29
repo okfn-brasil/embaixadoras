@@ -1,8 +1,12 @@
-<div class="square-image"><img src="{% include relative-src.html src=include.member.image_path %}" alt="{{ include.member.name }}"/></div>
+<div class="square-image">
+  {% if include.member.badged_image_path %}
+  <img src="{% include relative-src.html src=include.member.badged_image_path %}" alt="{{ include.member.name }}"/></div>
+  {% elsif include.member.image_path %}
+  <img src="{% include relative-src.html src=include.member.image_path %}" alt="{{ include.member.name }}"/></div>
+  {% endif %}
 	<div class="details">
 		<div style="color: #41f8fe;" class="name">{{ include.member.name }}</div>
-		<div class="position">
-			{{ include.member.city }}
+		<div class="position"> 	{{ include.member.city }}
 			<span style="float: right !important; background: white; border-radius: 5px; padding: 5px;">
 				{% if include.member.twitter %}
 				<a href="https://twitter.com/{{ include.member.twitter }}" target="_blank"><i class="fab fa-twitter-square"></i></a>
