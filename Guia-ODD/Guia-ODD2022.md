@@ -34,13 +34,25 @@ A ideia de reservar um dia do ano para abordar a pauta de dados abertos traz uma
 ### 4. Onde realizar o evento?
 Devido à pandemia do coronavírus, recomendamos que os eventos sejam realizados preferencialmente online. Caso você queira realizar um evento presencial, assegure-se de seguir os protocolos de segurança evitando aglomerações em ambientes fechados, certificando-se que o ambiente é bem ventilado, exigindo o uso de máscaras, verificando se os participantes estão em dia com as doses de vacinação aplicadas em sua cidade e, se possível, disponibilizando material de higiene como álcool de concentração 60% a 80%.
 
-- Plataformas de streaming (Zoom, StreamYard, Google Meet, Youtube)
+- Ferramentas de streaming e de videoconferência
+  - Ferramentas baseadas em software livre são preferencialmente indicadas: [Jitsi Meet](https://jitsi.org/), [Big Blue Button](https://bigbluebutton.org/), [Jami](https://jami.net/), [OBS Studio](https://obsproject.com/pt-br) e [PeerTube](https://joinpeertube.org/)
+  - Ferramentas em software proprietário: Zoom, StreamYard, Google Meet, YouTube
+- Ferramentas de espaços virtuais (ex.: [WorkAdventure](https://workadventu.re/), Gather) onde as pessoas podem se movimentar e se organizar para conversar em grupos espontâneos de tamanho reduzido
+- Ferramentas de bate-papo em texto: [Matrix](https://matrix.org/), [XMPP](https://xmpp.org/software/clients/)
 - Locais públicos (ex: universidades, bibliotecas, centros culturais, escolas, sedes de conselhos de bairro)
 - Sedes de organizações da sociedade civil
 - Empresas de tecnologia (é comum que essas empresas reservem espaços em suas instalações para sediar eventos ao longo do ano, inclusive aos finais de semana)
 > Atente-se aos prazos para a reserva do local e verifique a infraestrutura disponível (ex: qualidade da internet, lotação do espaço, transporte público, proximidade de lanchonetes e restaurantes etc.)
 
-Assim que tiver um local definido, disponibilize um link com mais informações (pode ser um evento no Facebook, Eventbrite, Sympla, MeetUp etc.) ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do ODD 2022](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
+Assim que tiver um local definido, disponibilize um link com mais informações ou mesmo um formulário de inscrição e cadastre o evento no [site oficial do Open Data Day](https://opendataday.org/pt_br/). Dessa forma, mais pessoas encontrarão o evento local com facilidade.
+
+- Ferramentas para eventos
+    - Ferramentas baseadas em software livre são preferencialmente indicadas: [Mobilizon](https://joinmobilizon.org/en/), [Gath.io](https://gath.io/), [Gancio](https://gancio.org/), ou [GetTogether](https://gettogether.community/)
+    - Ferramentas de software proprietário: evento no Facebook (limitado a usuários com conta na plataforma), [Eventbrite](https://www.eventbrite.com.br/), [Sympla](https://www.sympla.com.br/), [MeetUp](https://www.meetup.com/pt-BR/)
+
+> Se não conhece alguma ferramenta e tiver tempo de testar, tome um tempinho para experimentar. Veja quais atendem melhor sua necessidade (gratuidade, recursos disponíveis, etc.) e a do seu público (necessidade de cadastro, privacidade, etc.) e escolha a mais adequada. 
+>
+> Outra dica: termos de uso de serviços geralmente são maçantes, então sites como [ToS;DR.org](https://tosdr.org/pt_BR/frontpage) e [privacidade.digital](https://www.privacidade.digital/) existem para ver avaliações de privacidade e resumos das políticas de dados adotadas por cada ferramenta utilizada.
 
 Você pode usar este [Gerador de Logos](http://odd.structure-and-representation.com/) para conferir se já existe ou para criar um logotipo para sua cidade e utilizá-lo para divulgar seu evento.
 ___
