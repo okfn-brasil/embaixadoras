@@ -74,15 +74,18 @@ Ainda não sabe sobre o que falar? A Open Knowledge Foundation também recomenda
 
 ### 6. Onde encontrar bases de dados?
 Confira alguns exemplos de páginas que disponibilizam bases de dados que podem ser utilizadas no ODD:
-- **Fontes primárias** - confira os portais de dados abertos dos três níveis de governo e das três esferas de poder; órgãos estatísticos (exs: [Repositório de Dados](https://dados.gov.br/dataset) do Portal Brasileiro de Dados Abertos, [IBGE](https://www.ibge.gov.br/estatisticas/todos-os-produtos-estatisticas.html))
-- **Fontes secundárias** - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/), [Brasil.io](https://brasil.io), [Base dos Dados](http://www.basedosdados.org/), [Colaboradados](http://colaboradados.com.br/), etc.
+- **Fontes primárias** - confira os portais de dados abertos das três esferas de governo e das três poderes da república.
+  - Alguns sites oficiais agregam dados de diversos órgãos públicos (ex.: [conjuntos de dados](https://dados.gov.br/dataset) e [lista de órgãos](https://dados.gov.br/organization) do Portal Brasileiro de Dados Abertos).
+  - Órgãos estatísticos (ex.: [IBGE](https://www.ibge.gov.br/estatisticas/todos-os-produtos-estatisticas.html), [IPEA Data](http://www.ipeadata.gov.br/Default.aspx)) costumam conter séries históricas de dados acerca de diversas temáticas.
+  - Alguns sites oficiais e sites de terceiros possuem listas de portais de dados abertos e portais de transparência, o que pode facilitar a encontrar as referências para as fontes primárias. Por exemplo, a lista de "[outras iniciativas](https://dados.gov.br/pagina/outras-iniciativas)" do Portal Brasileiro de Dados Abertos, [dataportals.org](https://dataportals.org/), [Colaboradados](http://colaboradados.com.br/) e [Transparência e Dados Abertos Brasil](https://github.com/augusto-herrmann/transparencia-dados-abertos-brasil/blob/master/data/valid/brazilian-transparency-and-open-data-portals.csv).
+- **Fontes secundárias** - iniciativas não governamentais que sintetizam diversas bases disponíveis: [The Data Hub](https://datahub.io/), [Brasil.io](https://brasil.io), [Base dos Dados](http://www.basedosdados.org/), [BrasilAPI](https://brasilapi.com.br/), etc.
 
 - Algumas sugestões associadas aos temas do ODD 2022:
   - A Escola de Dados compilou uma série de [fontes de dados](https://escoladedados.org/tutoriais/fontes-de-dados-para-investigacoes-sobre-meio-ambiente/) para investigar o Meio Ambiente
   - O Portal Brasileiro de Dados Abertos publica várias bases de dados agrupadas na temática de [Orçamento](https://dados.gov.br/dataset?tags=Or%C3%A7amento)
   - O IBGE publica suas [Bases Cartográficas Contínuas](
 https://www.ibge.gov.br/geociencias/cartas-e-mapas/bases-cartograficas-continuas/15759-brasil.html?=&t=sobre)
-  - A Base dos Dados agrupa diversas bases interessantes, nacionais e internacionais, sob a categoria [Diversidade e Inclusão](https://basedosdados.org/dataset?group=diversidade&order_by=score)
+  - A Base dos Dados Mais agrupa diversas bases interessantes, nacionais e internacionais, sob a categoria [Diversidade e Inclusão](https://basedosdados.org/dataset?group=diversidade&order_by=score)
   - A Marinha do Brasil disponibiliza um [Banco Nacional de Dados Oceanográficos](https://www.marinha.mil.br/chm/bndo). É possível [solicitar dados](http://labdados.io.usp.br/solicit.html) de interesse ao Instituto de Oceanografia da USP
 
 - Mais sugestões de bases relacionadas aos temas do ODD 2022 podem ser conferidas na seção de [Recursos para Eventos](https://opendataday.org/pt_br/#resources)
