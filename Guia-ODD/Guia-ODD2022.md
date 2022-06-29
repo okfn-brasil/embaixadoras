@@ -50,9 +50,9 @@ Assim que tiver um local definido, disponibilize um link com mais informações 
     - Ferramentas baseadas em software livre são preferencialmente indicadas: [Mobilizon](https://joinmobilizon.org/en/), [Gath.io](https://gath.io/), [Gancio](https://gancio.org/), ou [GetTogether](https://gettogether.community/)
     - Ferramentas de software proprietário: evento no Facebook (limitado a usuários com conta na plataforma), [Eventbrite](https://www.eventbrite.com.br/), [Sympla](https://www.sympla.com.br/), [MeetUp](https://www.meetup.com/pt-BR/)
 
-> Ao escolher uma ferramenta ou plataforma, atente-se se há ou não a necessidade da pessoa criar uma conta e ao quão favoráveis aos usuários são os termos de uso e política de privacidade. Caso se inscrever no evento exija um grande número de passos, fazer cadastro com coleta de muitos dados ou tenha uma política desfavorável, algumas pessoas podem desistir de participar do evento.
-> 
-> Consulte sites como [ToS;DR.org](https://tosdr.org/pt_BR/frontpage) e [privacidade.digital](https://www.privacidade.digital/) para ver avaliações de privacidade e resumos das políticas de dados adotadas por cada plataforma.
+> Se não conhece alguma ferramenta e tiver tempo de testar, tome um tempinho para experimentar. Veja quais atendem melhor sua necessidade (gratuidade, recursos disponíveis, etc.) e a do seu público (necessidade de cadastro, privacidade, etc.) e escolha a mais adequada. 
+>
+> Outra dica: termos de uso de serviços geralmente são maçantes, então sites como [ToS;DR.org](https://tosdr.org/pt_BR/frontpage) e [privacidade.digital](https://www.privacidade.digital/) existem para ver avaliações de privacidade e resumos das políticas de dados adotadas por cada ferramenta utilizada.
 
 Você pode usar este [Gerador de Logos](http://odd.structure-and-representation.com/) para conferir se já existe ou para criar um logotipo para sua cidade e utilizá-lo para divulgar seu evento.
 ___
