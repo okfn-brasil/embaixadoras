@@ -24,8 +24,9 @@ Por último, mas não menos importante, está a ideia de que a inovação cívic
 
 ## A solução
 E foi assim que, em setembro de 2019, surgiu o projeto Embaixadoras de Inovação Cívica! Reunindo todos os objetivos da equipe, a iniciativa buscou conectar pessoas interessadas em promover ações de inovação cívica em suas cidades e regiões, contribuindo para ampliar o alcance dos projetos por meio de eventos, workshops e sprints de desenvolvimento, além de compartilhar conhecimento em atividades promovidas pela Open Knowledge Brasil.
-As conquistas
 
+
+## As conquistas
 O primeiro ciclo de participantes integrou 76 pessoas em uma rede muito rica em repertório e conhecimento. Ao longo de 7 meses, foram realizados eventos presenciais em Feira de Santana e Uberlândia, uma sprint de desenvolvimento para a Serenata em Florianópolis, [cinco lives no YouTube](https://www.youtube.com/user/okfnbr){:target="_blank"} e uma grande contribuição de código para o projeto Querido Diário. [Saiba mais em nosso blog](https://embaixadoras.ok.org.br/civic%20tech/2020/03/24/convocatoria-2-ciclo-3/){:target="_blank"}.
 
 Outro destaque foi a organização do [Open Data Day 2020](https://www.ok.org.br/noticia/saiba-como-foi-o-open-data-day-2020-pelas-cidades-do-brasil/){:target="_blank"} em 7 de março, que teve edições em Natal, Manaus, Belo Horizonte, Santa Catarina, São Paulo e Rio de Janeiro organizadas por integrantes da rede Embaixadoras.
