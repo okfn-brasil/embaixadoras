@@ -23,22 +23,22 @@ Os badges, além de reconhecer embaixadoras(es), também marcam uma fase do amad
 
 Este ciclo marca uma inversão nos interesses das novas pessoas Embaixadoras. Os dois primeiros ciclos contaram com forte presença de pessoas cujos interesses eram técnicos. Já neste terceiro ciclo, o perfil técnico, dividido em dois aspectos, figura em 5º e 10º lugares (Ciência de Dados e Desenvolvimento e Software Livre, respectivamente). O principal tema de interesse do ciclo é na área de **Transparência e Controle Social**, com “Dados Abertos e Transparência” ocupando a 1ª posição e “Cidadania, democracia participativa e fiscalização social”, a 2ª.
 
-![Perfil de Interesses][images/posts/2022-07-05-3ociclo-interesses.png]
+![Perfil de Interesses](/images/posts/2022-07-05-3ociclo-interesses.png)
 
 Já dando fôlego ao processo de maturidade da atuação das(os) embaixadoras(es) iniciado pelo sistema de badges, mapeamos o perfil de atuação das(os) novas(os) integrantes. O perfil de maior identificação foi **“influenciador(a) de políticas”** correspondendo às pessoas que se mobilizam para intervir civicamente no aprimoramento de políticas públicas locais.
 
-![Perfil de Atuação][images/posts/2022-07-05-3ociclo-atuação.png]
+![Perfil de Atuação](/images/posts/2022-07-05-3ociclo-atuação.png)
 
 
 ### Diversidade: ainda um desafio
 A presença feminina (38%) recuou neste ciclo em comparação ao ciclo anterior (48%), mas se manteve maior que o primeiro (21%). Por outro lado, este ciclo inaugura a presença de pessoas trans não-binárias na rede (4%).
 
-![Perfil de Gênero][images/posts/2022-07-05-3ociclo-gênero.png]
+![Perfil de Gênero](/images/posts/2022-07-05-3ociclo-gênero.png)
 
 
 Quanto à composição racial, ela segue majoritariamente branca, e a proporção da presença de pessoas pretas e pardas seguiu estável (38% neste ciclo; 36% no anterior).
 
-![Perfil Étnico][images/posts/2022-07-05-3ociclo-etnia.png]
+![Perfil Étnico](/images/posts/2022-07-05-3ociclo-etnia.png)
 
 
 ### Capilaridade
@@ -46,4 +46,4 @@ Olhando para a totalidade dos três ciclos da rede, a distribuição das(os) 158
 
 São 74 cidades com presença de embaixadoras(es), nas 24 das 27 unidades federativas do Brasil. Agora contamos com representantes no **Mato Grosso, Mato Grosso do Sul e Espírito Santo**, que não haviam sido atingidos nos dois primeiros ciclos, enquanto os estados do Maranhão, Rondônia e Acre seguem sem a presença de membras(os) do projeto.
 
-![distribuição Geográfica][images/posts/2022-07-05-3ociclo-distribuição-geografica.png]
+![distribuição Geográfica](/images/posts/2022-07-05-3ociclo-distribuição-geografica.png)
