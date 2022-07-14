@@ -1,5 +1,5 @@
 ---
-name: Everton Dos Reis
+name: Everton dos Reis
 city: Itaborai - RJ
 image_path: /images/team/everton_reis.png
 badged_image_path:

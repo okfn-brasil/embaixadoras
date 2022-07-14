@@ -1,7 +1,7 @@
 ---
 name: Flávio Timar Rodrigues
 city: Poá  - SP
-image_path: /images/team/flávio_timar_rodrigues.png
+image_path: /images/team/flavio_timar_rodrigues.png
 badged_image_path:
 twitter: flaviotimar
 facebook:
