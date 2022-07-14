@@ -1,7 +1,7 @@
 ---
-name: Luiz Auguso Galicioli
+name: Luiz Augusto Galicioli
 city: Luiz Antônio - SP
-image_path: /images/team/luiz_auguso_galicioli.png
+image_path: /images/team/luiz_augusto_galicioli.png
 badged_image_path:
 twitter: LuizinGalicioli
 facebook:
