@@ -1,5 +1,5 @@
 ---
-title: Veja as candidaturas eleitas que assinaram a #CartaPorUmGovernoEstadualAberto
+title: Veja as candidaturas eleitas que assinaram a Carta Por Um Governo Estadual Aberto
 categories:
     - civic_tech
     - Transparência
