@@ -4,7 +4,7 @@ categories:
     - Abertura de Dados
     - Lei de Acesso à Informação
     - Prefeitura
-author_staff_member: Gregori Pavan
+author_staff_member: gregori_pavan
 show_comments: true
 ---
 
