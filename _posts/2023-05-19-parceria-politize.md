@@ -10,6 +10,9 @@ show_comments: true
 ---
 *Evento em parceria com a Politize, evento marcou 11 anos da LAI.*
 
+![CardParceria](/images/posts/2023-05-19-parceria-politize.jpg)
+
+
 Em celebração aos 11 anos da Lei de Acesso à Informação (LAI), a rede de embaixadoras de Inovação Cívica da Open Knowledge Brasil (OKBR) organizou um webinar para formação básica sobre dados abertos, transparência e Lei de Acesso à Informação em conjunto com a rede de Embaixadores da Politize!. O evento, numa parceria inédita entre as duas organizações sem fins lucrativos que lutam por cidadania ativa e inovação cívica, aconteceu de maneira remota na última terça-feira (16), e contou com a participação de mais de cinquenta pessoas. 
 
 Tendo como um dos eixos de ação a formação política a partir de inúmeras parcerias e contando com lideranças para multiplicar conhecimentos e democratizar o acesso aos dados abertos, a Politize! contou com a Rede de Embaixadoras da OKBR para alinhar conceitos e esclarecer dúvidas sobre temas como transparência ativa, a disponibilização e abertura e visualização de dados pelos governos, o que há para se saber sobre o sigilo dos 100 anos e as lições e procedimentos já aprendidos sobre as solicitações via Lei de Acesso à informação, que completará no dia do encontro onze anos em que entrou em vigor em 2011.    . 
