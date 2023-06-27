@@ -27,34 +27,34 @@ Por último, será reforçado o sistema de medalhas, com uma cerimônia de entre
 
 ### LISTA DE MEDALHAS JÁ EXISTENTES:
 
-**1. Contribuidor(a) em projetos de inovação cívica**
+**1. Contribuidor(a) em projetos de inovação cívica**: 
 Pessoa que já contribuiu ativamente para aprimorar algum projeto do Programa de Inovação Cívica, como Querido Diário, Serenata de Amor, Perfil Político ou Queremos Saber. O melhor caminho para alcançar essa medalha é interagindo no Discord para fazer colaborações diretas nos projetos citados. 
 
-**2. Divulgador(a)**
+**2. Divulgador(a)**: 
 Pessoa que costuma utilizar espaços como redes sociais ou eventos de tecnologia para compartilhar iniciativas, projetos e novidades de inovação cívica. O melhor caminho para alcançar essa badge é participando dos eventos e compartilhando a experiência através de relato publicado nas redes sociais e/ou blog das Embaixadoras. 
 
-**3. Especialista**
+**3. Especialista**: 
 É capaz de falar com profundidade sobre algum tema de interesse da rede e contribui ativamente para ampliar o repertório de seus integrantes em formações internas ou em lives abertas ao público. As formas de alcançar essa medalha é escrevendo tutoriais ou participando como palestrante em eventos e/ou webinars de temas pertinentes à rede. Os materiais podem ser publicados em blog/sites pessoais e replicados no site das Embaixadoras, com os devidos créditos. 
 
-**4. Influenciador(a) de políticas**
+**4. Influenciador(a) de políticas**: 
 Já esteve à frente de iniciativas que planejaram e/ou buscaram aprimorar as políticas públicas locais, como grupos de governo aberto, conselhos, regulamentação de leis e comprometimento de candidatos com causas de inovação cívica co-criadas no âmbito da rede. O caminho para receber essa medalha é participar de iniciativas como Open Data Index ou outras ações com propostas encaminhadas diretamente para o governo, em suas diferentes esferas, tendo isso comprovado em documentos e ou relato publicado na internet.  
 
-**5. Organizador(a) de eventos**
+**5. Organizador(a) de eventos**: 
 Já organizou algum evento que aborda temas de inovação cívica, como Open Data Day, Cerveja com Dados e sprints de código. Para alcançar essa medalha é necessário compartilhar informações sobre o evento organizado com o resto da rede, desde a etapa de organização, passando pela divulgação e relato final publicado na internet. 
 
 ### NOVAS MEDALHAS (entram em vigor a partir de julho de 2023) 
 
-**6. Veterano(a)** 
+**6. Veterano(a)**: 
 Pessoa que esteve ativa em mais de um ciclo e manifestou interesse de continuar ativa na passagem de um ciclo para o outro. Além de indicar pelo menos um nome de pessoa que poderia ser convidada para fazer parte da rede. 
 
-**7. Calouro(a)** 
+**7. Calouro(a)**: 
 Pessoas que entraram no ciclo vigente. Ao passar de um ciclo para outro a pessoa pode optar pela badge de veterana ou de hibernante. E automaticamente, perde a medalha de Caloura(o). 
 
-**8. Tutor(a) / Mentor(a)** 
+**8. Tutor(a) / Mentor(a)**: 
 Pessoa da rede que atuou durante um ciclo como orientadora de uma embaixadora novata. A orientação consiste em tirar dúvidas sobre o funcionamento da rede e dar apoio durante a fase de integração da pessoa na comunidade. 
-adici
-**9. Hibernante** 
+
+**9. Hibernante**: 
 Pessoa que esteve ativa durante um ou mais ciclos mas optou por ficar um pouco afastada da rede momentaneamente. Essa medalha serve para sinalizar para as outras pessoas da rede que aquela embaixadora está temporariamente afastada mas pode voltar a qualquer momento. Essa medalha garante que a pessoa não será desligada dos canais de comunicação e que será convidada a retornar no próximo ciclo. Ao retornar para a comunidade, a pessoa perde a medalha de Hibernante e pode receber uma de veterano(a). 
 
-**10. Sempre presente**
+**10. Sempre presente**: 
 Pessoa que está presente na maioria das reuniões síncronas ou em muitos encontros seguidos em um determinado período de tempo.
