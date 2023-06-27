@@ -14,7 +14,7 @@ layout: page
 {% if page.author_staff_member %}
 	<section class="diagonal patterned">
 		<div class="container">
-			<h2>Autor</h2>
+			<h2>Autoria</h2>
 			<ul class="image-grid">
 				{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
 				{% assign author = site.staff_members | where: "url", author_id | first %}
@@ -27,7 +27,7 @@ layout: page
 
 <section class="diagonal alternate">
 	<div class="text-container">
-		<h2>Pŕoximo Artigo</h2>
+		<h2>Próximo Artigo</h2>
 		<div class="blog-post">
 			{% if page.next %}
 				{% include post-summary.html post=page.next %}
