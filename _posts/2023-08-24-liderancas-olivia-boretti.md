@@ -1,5 +1,5 @@
 ---
-title: 'Inovação Cívica: Empreendendo Mudanças Positivas para um Futuro Participativo'
+title: 'Empreendendo Mudanças Positivas para um Futuro Participativo'
 categories:
     - Guia de Lideranças
     - Inovação Cívica

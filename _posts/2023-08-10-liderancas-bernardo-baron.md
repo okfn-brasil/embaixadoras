@@ -1,5 +1,5 @@
 ---
-title: 'Construindo um Futuro Participativo: Reflexões de um Embaixador de Tecnologia Cívica'
+title: 'Construindo o Futuro: Reflexões de um Embaixador de Tecnologia Cívica'
 categories:
     - Guia de Lideranças
     - Inovação Cívica
