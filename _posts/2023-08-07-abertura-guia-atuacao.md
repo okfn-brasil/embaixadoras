@@ -16,4 +16,4 @@ O Brasil se configura em um terreno fértil para iniciativas que buscam melhorar
 
 As Embaixadoras de Inovação Cívica atuam para combater essa lógica. Por meio da troca de experiências, das formações oferecidas para quem integra o grupo e promoção de espaços de debates abertos, busca-se fomentar comunidades locais que estejam cada vez mais instrumentalizadas para lidar com os desafios da sociedade atual.
 
-Nesse sentido, as postagens da série vão trazer relatos e exemplos práticos dessa atuação. Os textos serão publicados ao longo do mês, a cada quinta-feira, a partir do dia 10 de agosto. Ao final, serão todos listados aqui, para facilitar o acesso. Já as conversas para troca de experiências serão uma atividade interna da Rede.
+Nesse sentido, as postagens da série vão trazer relatos e exemplos práticos dessa atuação. Os textos serão publicados ao longo do mês, a cada quinta-feira, a partir do dia 10 de agosto. Ao final, serão todos listados [aqui](https://embaixadoras.ok.org.br/category/guia-de-lideran%C3%A7as/), para facilitar o acesso. Já as conversas para troca de experiências serão uma atividade interna da Rede.
