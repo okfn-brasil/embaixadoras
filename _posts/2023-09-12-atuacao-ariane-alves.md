@@ -2,8 +2,8 @@
 title: 'Rede Embaixadoras de Inovação Cívica: desafios e conquistas 
 na construção de uma comunidade'
 categories: 
-    - Guia de Lideranças
-    - Inovação Cívica
+    - guia-de-atuacao
+    - inovacao-civica
 author_staff_member: ariane_alves
 show_comments: true
 ---
@@ -30,4 +30,4 @@ Saber que pude apoiar tudo isso e fomentar espaços e atividades para que a rede
 
 ---
 
-*Esse texto faz parte da série [Guia de Lideranças](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*
+*Esse texto faz parte da série [Guia de Atuação](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*

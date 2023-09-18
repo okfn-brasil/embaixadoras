@@ -1,8 +1,8 @@
 ---
 title: 'Inovação Cívica nas Universidades: relato de experiência com o QD Universidades'
 categories: 
-    - Guia de Lideranças
-    - Inovação Cívica
+    - guia-de-atuacao
+    - inovacao-civica
 author_staff_member: adolfo_guimaraes
 show_comments: true
 ---
@@ -31,4 +31,4 @@ Por fim, fazer parte da rede tem sido uma jornada bem interessante. Ver o quarto
 
 ---
 
-*Esse texto faz parte da série [Guia de Lideranças](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*
+*Esse texto faz parte da série [Guia de Atuação](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*
