@@ -1,12 +1,14 @@
 ---
 title: 'Inovação Cívica nas Universidades: relato de experiência com o QD Universidades'
 categories: 
-    - Guia de Lideranças
-    - Inovação Cívica
+    - guia-de-atuacao
+    - inovacao-civica
 author_staff_member: adolfo_guimaraes
 show_comments: true
 ---
 *Um caminho para expandir os trabalhos de inovação cívica, é levá-los para as Universidades*
+
+Por *Adolfo Guimarães*
 
 Depois de quase 10 atuando no ensino superior, decidi traçar outros caminhos dentro da computação. Foi nessa busca que conheci a Escola de Dados, a Open Knowledge Brasil e, em seguida, o Querido Diário. Em 2022, fui selecionado para o terceiro ciclo de pessoas embaixadoras da Open Knowledge Brasil (OKBR) e só aí tive a dimensão dos trabalhos que poderiam ser desenvolvidos nessa área e o amplo escopo de aplicação dos projetos. 
 
@@ -25,3 +27,8 @@ Já Ana Beatriz, aluna do sétimo período do Curso de Ciência da Computação,
 Partindo agora para o segundo ciclo, espero ampliar as discussões não só técnicas mas também de envolvimento da rede em trabalhos desse tipo. Vamos continuar com o projeto de aplicar técnicas de Processamento de Linguagem Natural em diários de forma a ampliar o estudo de modelos de linguagem para esse tipo de aplicação. Mais do que isso, quero ampliar o envolvimento dos alunos nas discussões e na divulgação desses resultados para a comunidade acadêmica. 
 
 Por fim, fazer parte da rede tem sido uma jornada bem interessante. Ver o quarto ciclo começar com tantas pessoas de diferentes realidades e que podem contribuir com tudo isso, só faz ter certeza da importância da rede. Que venham mais ciclos, mais embaixadoras e mais projetos nos próximos anos 🙂.
+
+
+---
+
+*Esse texto faz parte da série [Guia de Atuação](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*

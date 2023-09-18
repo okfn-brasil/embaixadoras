@@ -1,12 +1,14 @@
 ---
 title: Uma rede de conhecimento compartilhado
 categories:
-    - Guia de Lideranças
-    - Inovação Cívica
+    - guia-de-atuacao
+    - inovacao-civica
 author_staff_member: tais_seibt
 show_comments: true
 ---
-*Como jornalista, sempre acreditei no potencial do jornalismo como instrumento para promover e proteger os direitos cívicos.* 
+*Como jornalista, sempre acreditei no potencial do jornalismo como instrumento para promover e proteger os direitos cívicos.*
+
+Por *Taís Seibt*
 
 Depois de uma década na profissão, a maior parte em redação de jornal, decidi me dedicar à pesquisa acadêmica e escrevi uma [tese de doutorado](https://lume.ufrgs.br/handle/10183/193359) sobre a prática de fact-checking no Brasil. Foi entre 2015 e 2019, um período em que ainda pouco se conhecia sobre a checagem de fatos, e sua relevância no meio jornalístico era até mesmo questionada - afinal, checar os fatos não é o que fazem ou deveriam fazer os jornalistas? 
 
@@ -25,3 +27,8 @@ Além de iniciativas próprias, Afonte permitiu também estabelecer uma parceria
 Das diversas conexões que a rede me proporcionou, foi por meio dela que, em 2020, pude atuar como uma das pesquisadoras de apoio ao [Índice de Transparência da Covid-19](https://transparenciacovid19.ok.org.br/), que foi um monitoramento dos mais importantes para qualificar os dados públicos disponíveis sobre a pandemia. No ano seguinte, ainda participei da produção do [e-book](https://ok.org.br/wp-content/uploads/2021/11/Ebook_EmergenciaDados_OKBR.pdf) que documenta os impactos deste projeto de sucesso em inovação cívica da OKBR. Essa foi uma das experiências que mais me transformou e me trouxe aprendizado nesse período em que faço parte da rede, e que torna este espaço muito especial.
 
 Contudo, mais especial do que os projetos e as experiências, são as pessoas que fazem a rede acontecer. Pessoas abertas ao aprendizado mútuo e contínuo, dispostas a colaborar entre si para chegar ao sucesso conjunto são o ingrediente principal desta comunidade. Muitas parcerias e amizades se construíram ou se fortaleceram nesta rede ao longo desses anos. É esse espírito de colaboração e troca de conhecimento que dá significado à nossa participação. Vida longa às Embaixadoras!
+
+
+---
+
+*Esse texto faz parte da série [Guia de Atuação](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*

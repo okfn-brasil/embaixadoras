@@ -1,12 +1,14 @@
 ---
 title: 'Empreendendo Mudanças Positivas para um Futuro Participativo'
 categories:
-    - Guia de Lideranças
-    - Inovação Cívica
+    - guia-de-atuacao
+    - inovacao-civica
 author_staff_member: olivia_fernandes_boretti
 show_comments: true
 ---
 *"Participar ativamente de grupos de estudos e comunidades tem sido uma parte fundamental na minha jornada de aprendizado e preparação para um futuro repleto de incertezas."*
+
+Por *Olívia Boretti*
 
 Minha trajetória de estudos e experiências na área de inovação foi incrível e repleta de aprendizados. Como bacharel em Direito, com pós-graduações em Direito Eletrônico, Direito Público e Direito Internacional, adquiri uma base sólida que me permitiu explorar diferentes áreas de atuação e entender as nuances legais no contexto da inovação. Abri mão das tradições do Direito e busquei um Mestrado em Inovação e Empreendedorismo, o que ampliou minha visão sobre os princípios e práticas, fornecendo uma base sólida para impulsionar o progresso e o crescimento por meio de ideias inovadoras.
 
@@ -24,3 +26,8 @@ Considero a inovação cívica um tema importante para a sociedade, que envolve 
 > *"Unir tecnologia, colaboração e participação cidadã é fundamental para construir uma sociedade mais transparente, inclusiva e engajada. Estou comprometida em aprofundar meus conhecimentos nessa área e buscar parcerias estratégicas em Cuiabá-MT, onde a inovação cívica possa ser aplicada de forma prática e transformadora."*
 
 Convido todos aqueles que compartilham dessa visão a se juntarem a OKBR nessa jornada de aprendizado e ação. Juntos, podemos construir um futuro mais participativo, inclusivo e promissor para todos.
+
+
+---
+
+*Esse texto faz parte da série [Guia de Atuação](https://embaixadoras.ok.org.br/guia%20de%20lideran%C3%A7as/inova%C3%A7%C3%A3o%20c%C3%ADvica/2023/08/07/abertura-guia-liderancas/), que consiste em uma série de postagens com depoimentos de pessoas da rede, compartilhando experiências e formas de atuação dentro do cenário de inovação cívica brasileiro. O objetivo é compartilhar conhecimentos, em especial com as novas embaixadoras, bem como reforçar a importância da atuação em comunidade.*
