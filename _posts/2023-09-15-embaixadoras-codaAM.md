@@ -9,6 +9,8 @@ show_comments: true
 
 A segunda edição regional da Conferência de Jornalismo de Dados e Métodos Digitais (Coda Amazônia) aconteceu entre os dias 31 de agosto e 2 de setembro, nas cidade de Belém e Salvaterra, ambas no estado do Pará, e contou com a presença de pessoas da Rede de Embaixadoras de Inovação Cívica da Open Knowledge Brasil (OKBR). O grupo, que acompanhou alguns painéis e workshops, aproveitou a ocasião para reforçar a presença da rede na região Norte do país, bem como estabelecer laços mais próximos entre si e com representantes da OKBR.   
 
+![encontro-codaAM](/images/posts/2023-09-15-embaixadoras-codaAM.jpeg)
+
 A embaixadora Jessica Teixeira (PA), que ingressou na rede no quarto ciclo, conta que aproveitou o momento do Coda Amazônia para estabelecer conexões: 
 
 *“Em minha segunda participação no evento, tive a oportunidade de conhecer pessoalmente alguns dos representantes da OKBR e Embaixadores de Inovação Cívica. Foi uma experiência enriquecedora e inspiradora, na qual pude estabelecer conexões valiosas e aprender muito com esses profissionais comprometidos com a qualidade e transparência das informações em nosso país”.* 
