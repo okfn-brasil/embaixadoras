@@ -17,6 +17,15 @@ A embaixadora Jessica Teixeira (PA), que ingressou na rede no quarto ciclo, cont
 
 Para a embaixadora de inovação cívica, a edição deste ano demonstrou um maior engajamento social em torno dos assuntos abordados: “Especialmente em relação à Amazônia, devido a diversos eventos realizados em Belém este ano, que trataram de questões ambientais e sociais para o desenvolvimento de uma sociedade sustentável. Por fim, sinto-me imensamente feliz em participar, colaborar e contribuir com eventos e projetos para o avanço desse importante campo”, disse.
 
+A professora e também embaixadora, Tatiana Pará, destacou que “o Coda Amazônia 2023 promove uma intensa discussão crítica e ações coletivas de desenvolvimento de dados abertos e colaborativos que podem apoiar nos projetos através de inovação cívica para o conhecimento sobre a conservação e sustentabilidade na Amazônia”.
+
+**Oficina de StroyMaps**
+
+Tatiana participou da conferência ministrando uma oficina de StoryMaps, ferramentas que ajudam a contar histórias na web e destacar a localização de uma série de eventos relacionados com a narrativa. 
+
+“O treinamento teve cerca de 30 participantes aprendendo a contar histórias fascinantes usando uma das ferramentas mais poderosas da era digital, o mapa digital. A ferramenta apresentada foi: [StoryMapJS](https://storymap.knightlab.com/) um site gratuito, o Knight Lab foi criado por técnicos e jornalistas da Northwestern University”, conta. 
+
+A oficina de StoryMaps pretendeu mostrar uma plataforma fácil e online de contar histórias convincentes com recursos visuais e mapeados, que podem sensibilizar o mundo para a importância da Amazônia e impulsionar a ação. “Afinal, os dados podem ser neutros, mas uma história bem contada é capaz de informar e mudar o curso da história”, destaca.
 
 **Lançamento Diário do Clima**
 
