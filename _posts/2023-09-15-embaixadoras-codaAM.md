@@ -19,7 +19,7 @@ Para a embaixadora de inovação cívica, a edição deste ano demonstrou um mai
 
 A professora e também embaixadora, Tatiana Pará, destacou que “o Coda Amazônia 2023 promove uma intensa discussão crítica e ações coletivas de desenvolvimento de dados abertos e colaborativos que podem apoiar nos projetos através de inovação cívica para o conhecimento sobre a conservação e sustentabilidade na Amazônia”.
 
-**Oficina de StroyMaps**
+**Oficina de StoryMaps**
 
 Tatiana participou da conferência ministrando uma oficina de StoryMaps, ferramentas que ajudam a contar histórias na web e destacar a localização de uma série de eventos relacionados com a narrativa. 
 
