@@ -1,0 +1,11 @@
+---
+name: Juliana Holanda
+city: Colinas do Sul - GO
+image_path: /images/team/juliana_holanda_bonomo.png
+badged_image_path: 
+twitter: Juliana45823329
+facebook:
+linkedin: julianahb
+website:
+badges:
+---
