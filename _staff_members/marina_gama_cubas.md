@@ -1,5 +1,5 @@
 ---
-name: Marina Ferreira
+name: Marina Gama Cubas
 city: São Paulo - SP
 image_path: /images/team/marina_gama_cubas.png
 badged_image_path: 
